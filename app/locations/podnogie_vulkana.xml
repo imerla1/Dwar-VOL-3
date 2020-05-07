@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+<area id="660" src="area_660.swf" rect="300,2660,1660,3680"> 
+	<title><![CDATA[Подножие вулкана]]></title>
+
+	<location id="661" inner_flag_pos="1200,200" inner_manor_pos="1130,115">
+		<title><![CDATA[Илистая запруда]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+		<object id="chel_red" inner_pos="1290,210">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Перевозчик Вамба]]></item>
+		</object>
+        	<object id="monster" inner_pos="1100,230">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Неферто [15]]]></item>
+			<item><![CDATA[Роха [16]]]></item>
+			<item><![CDATA[Горная роха [16]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="1200,300">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Веснянка [390]]]></item>
+			<item><![CDATA[Серый губан [390]]]></item>
+			<item><![CDATA[Иловый донник [390]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="1000,220">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Кварцит [390]]]></item>
+			<item><![CDATA[Амазонит [390]]]></item>
+			<item><![CDATA[Хрупкий азурий [390]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="1200,140">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Блеклый гиацинт [390]]]></item>
+			<item><![CDATA[Пунцовый клематис [390]]]></item>
+			<item><![CDATA[Сумеречный бриофий [390]]]></item>
+		</object>
+
+	</location>
+
+	<location id="662" inner_flag_pos="1059,557" inner_manor_pos="1000,485">
+		<title><![CDATA[Грирвудская слобода]]></title>
+		
+		<enemy_pos inner_pos="1069,454" />
+                
+		<object id="chel_red" inner_pos="1009,607">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Хогрик Боязливый]]></item>
+		</object>
+		<object id="chel_red" inner_pos="1120,427">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Знахарка Морискильда]]></item>
+		</object>
+		<object id="chel_red" inner_pos="960,530">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Кузнец Клангдил]]></item>
+		</object>
+		<object id="chel_red" inner_pos="975,623">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ирестион Справедливый]]></item>
+		</object>
+
+        	<object id="monster" inner_pos="1109,507">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Баргоф [16]]]></item>
+			<item><![CDATA[Маурин-одиночка [16]]]></item>
+			<item><![CDATA[Маурин-охотник [17]]]></item>
+			<item><![CDATA[Радужная роха [17]]]></item>
+			<item><![CDATA[Пещерный баргоф [18]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="1220,440">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Веснянка [390]]]></item>
+			<item><![CDATA[Серый губан [390]]]></item>
+			<item><![CDATA[Иловый донник [390]]]></item>
+			<item><![CDATA[Линнариус [420]]]></item>
+			<item><![CDATA[Толстобрюхий ио [420]]]></item>
+			<item><![CDATA[Сиреневый брохис [420]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="980,570">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Кварцит [390]]]></item>
+			<item><![CDATA[Амазонит [390]]]></item>
+			<item><![CDATA[Хрупкий азурий [390]]]></item>
+			<item><![CDATA[Розовый кварц [420]]]></item>
+			<item><![CDATA[Снежный лазурит [420]]]></item>
+			<item><![CDATA[Огненный карнеол [420]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="1040,427">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Блеклый гиацинт [390]]]></item>
+			<item><![CDATA[Пунцовый клематис [390]]]></item>
+			<item><![CDATA[Сумеречный бриофий [390]]]></item>
+			<item><![CDATA[Гардерия [420]]]></item>
+			<item><![CDATA[Лиловая фрезия [420]]]></item>
+			<item><![CDATA[Бархатная астерия [420]]]></item>
+		</object>
+
+	</location>
+
+	<location id="663" inner_flag_pos="780,675" inner_manor_pos="805,665">
+		<title><![CDATA[Руменгильд]]></title>
+		
+		<enemy_pos inner_pos="912,661" />
+		
+		<object id="chel_red" inner_pos="790,605">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Эрдинг]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="830,760">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Посланник неведомого]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="785,745">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Торговец Теро]]></item>
+		</object>
+		<object id="libra" inner_pos="750,635">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В магазине вы можете приобрести различные товары, починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="hammer" inner_pos="750,675">
+			<title><![CDATA[Аукцион]]></title>
+			<text><![CDATA[На аукционе вы сможете купить товары других игроков по самым выгодным ценам или выгодно продать любой товар, если он представляет какую-либо ценность в мире Фэо]]></text>
+		</object>
+
+		<object id="bag" inner_pos="830,635">
+			<title><![CDATA[Банк]]></title>
+			<text><![CDATA[Обмен у менялы рубинов и бриллиантов, банковская ячейка для хранения вещей]]></text>			
+		</object>
+
+		<object id="holy" inner_pos="820,705">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+
+		<object id="mail" inner_pos="870,695">
+			<title><![CDATA[Почта]]></title>
+			<text><![CDATA[Почта Руменгильда позволяет магмарам пересылать письма вещи и деньги]]></text>			
+		</object>
+   </location>
+	
+	<location id="664" inner_flag_pos="530,875" inner_manor_pos="480,700">
+		<title><![CDATA[Руменгильдский пост]]></title>
+		
+		<object id="star_2" inner_pos="580,780" race="mag">
+			<title><![CDATA[Пасть тьмы]]></title>
+			<text><![CDATA[Тайное логово порабощенного Шиасс Грызмура Мохгара, расположенное на Роковом перепутье в Полуденных землях.]]></text>			
+		</object>
+
+		<enemy_pos inner_pos="596,796" />
+        
+		<object id="group_red" inner_pos="620,825">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Капитан Ордунг]]></item>
+			<item><![CDATA[Ловчий Мизгар]]></item>
+			<item><![CDATA[Дозорный Гредвин]]></item>
+		</object>
+        	<object id="monster" inner_pos="520,725">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Баргоф [16]]]></item>
+			<item><![CDATA[Зарлог-наемник [16]]]></item>
+			<item><![CDATA[Зарлог-лучник [17]]]></item>
+			<item><![CDATA[Радужная роха [17]]]></item>
+			<item><![CDATA[Пещерный баргоф [18]]]></item>
+
+       		</object>        
+
+		<object id="farm_fish" inner_pos="700,815">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Веснянка [390]]]></item>
+			<item><![CDATA[Серый губан [390]]]></item>
+			<item><![CDATA[Иловый донник [390]]]></item>
+			<item><![CDATA[Линнариус [420]]]></item>
+			<item><![CDATA[Толстобрюхий ио [420]]]></item>
+			<item><![CDATA[Сиреневый брохис [420]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="490,795">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Кварцит [390]]]></item>
+			<item><![CDATA[Амазонит [390]]]></item>
+			<item><![CDATA[Хрупкий азурий [390]]]></item>
+			<item><![CDATA[Розовый кварц [420]]]></item>
+			<item><![CDATA[Снежный лазурит [420]]]></item>
+			<item><![CDATA[Огненный карнеол [420]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="620,725">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Блеклый гиацинт [390]]]></item>
+			<item><![CDATA[Пунцовый клематис [390]]]></item>
+			<item><![CDATA[Сумеречный бриофий [390]]]></item>
+			<item><![CDATA[Гардерия [420]]]></item>
+			<item><![CDATA[Лиловая фрезия [420]]]></item>
+			<item><![CDATA[Бархатная астерия [420]]]></item>
+		</object>
+	</location>	
+	<location id="665" inner_flag_pos="280,675" inner_manor_pos="235,865">
+		<title><![CDATA[Узборд]]></title>
+		
+		<enemy_pos inner_pos="283,807" />
+
+		<object id="chel_red" inner_pos="290,550">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Фиоссо]]></item>
+		</object>
+
+		<object id="group_red" inner_pos="265,542">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Безликие]]></item>
+			<item><![CDATA[Торговец Заррухс]]></item>
+		</object>
+		<object id="chel_red" inner_pos="310,575">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Сирш Саххрус]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="330,625">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Следопыт Ортего]]></item>
+		</object>
+
+        	<object id="monster" inner_pos="330,825">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Лавовый грызмур [17]]]></item>
+			<item><![CDATA[Блуждающий неферто [18]]]></item>
+			<item><![CDATA[Зарлог-колдун [18]]]></item>
+			<item><![CDATA[Зарлог-шептунья [19]]]></item>
+			
+       		</object>
+
+		<object id="star_2" inner_pos="230,725" race="mag">
+			<title><![CDATA[Запретный город]]></title>
+			<text><![CDATA[Проклятое место, обитателем которого уже много веков являются древние Зарлоги]]></text>			
+		</object>
+
+		<object id="farm_fish" inner_pos="270,930">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Верткая павея [450]]]></item>
+			<item><![CDATA[Фьорга-летунья [450]]]></item>
+			<item><![CDATA[Икрица бесчешуйная [450]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="190,795">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аклорин [450]]]></item>
+			<item><![CDATA[Верзолит [450]]]></item>
+			<item><![CDATA[Горный сребрень [450]]]></item>
+
+		</object>
+
+		<object id="farm_floor" inner_pos="280,765">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Багряная роделия [450]]]></item>
+			<item><![CDATA[Елейник приозерный [450]]]></item>
+			<item><![CDATA[Благородный арцедон [450]]]></item>
+		</object>
+		
+	</location>	
+	
+	<location id="666" inner_flag_pos="780,425" inner_manor_pos="800,525">
+		<title><![CDATA[Темплевир]]></title>
+
+		<object id="star_2" inner_pos="840,405" race="mag">
+			<title><![CDATA[Таильсимэ]]></title>
+			<text><![CDATA[Священное дерево мауринов, благотворная магия которого оберегает Полуденные земли от Хаоса. Чудовищные существа, поселившиеся в раскидистых ветвях и среди уходящих глубоко под землю корней Таильсимэ, тянут живительные соки из гигантского древа, истощая его мощь и колдовские чары.]]></text>			
+		</object>
+
+		<object id="chel_red" inner_pos="730,475">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Леа Миа]]></item>
+		</object>
+		<object id="chel_red" inner_pos="530,495">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мауринский идол]]></item>
+		</object>
+		<object id="chel_red" inner_pos="650,425">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Торговец Тао Мун]]></item>
+		</object>
+        	<object id="monster" inner_pos="600,475">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Лавовый грызмур [17]]]></item>
+			<item><![CDATA[Блуждающий неферто [18]]]></item>
+			<item><![CDATA[Маурин-кинжальщик [18]]]></item>
+			<item><![CDATA[Маурин-берсеркер [19]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="630,525">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Линнариус [420]]]></item>
+			<item><![CDATA[Толстобрюхий ио [420]]]></item>
+			<item><![CDATA[Сиреневый брохис [420]]]></item>
+			<item><![CDATA[Верткая павея [450]]]></item>
+			<item><![CDATA[Фьорга-летунья [450]]]></item>
+			<item><![CDATA[Икрица бесчешуйная [450]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="850,470">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Розовый кварц [420]]]></item>
+			<item><![CDATA[Снежный лазурит [420]]]></item>
+			<item><![CDATA[Огненный карнеол [420]]]></item>
+			<item><![CDATA[Аклорин [450]]]></item>
+			<item><![CDATA[Верзолит [450]]]></item>
+			<item><![CDATA[Горный сребрень [450]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="470,540">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Гардерия [420]]]></item>
+			<item><![CDATA[Лиловая фрезия [420]]]></item>
+			<item><![CDATA[Бархатная астерия [420]]]></item>
+			<item><![CDATA[Багряная роделия [450]]]></item>
+			<item><![CDATA[Елейник приозерный [450]]]></item>
+			<item><![CDATA[Благородный арцедон [450]]]></item>
+		</object>
+		</location>	
+</area>
+
+</areas>

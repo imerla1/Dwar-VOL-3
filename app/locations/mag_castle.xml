@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="301" src="area_301.swf" rect="3631,539,4175,1028">
+	<title><![CDATA[Файтвор]]></title>
+
+	<location id="311" inner_flag_pos="84,106" inner_manor_pos="94,100">
+		<title><![CDATA[Переправа Виверна]]></title>
+		
+		<enemy_pos inner_pos="154,105" />
+
+		<object id="farm_fish" inner_pos="121,48">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Златоперая семга [120]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+			<item><![CDATA[Златовлас [210]]]></item>		
+		</object>
+
+		<object id="farm_floor" inner_pos="41,147">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Жар-цвет [120]]]></item>
+			<item><![CDATA[Повей-трава [150]]]></item>
+			<item><![CDATA[Ветрица [180]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="106,146">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Янтарь [120]]]></item>
+			<item><![CDATA[Драконова кровь [150]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+
+
+		<object id="monster" inner_pos="76,174">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Горгулья [8]]]></item>
+			<item><![CDATA[Свирепая горгулья [9]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="133,87">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Погонщик Везур]]></item>
+		</object>
+
+		<object id="flight" inner_pos="152,49">
+			<title><![CDATA[Погонщик Везур]]></title>
+			<text><![CDATA[Здесь вы можете найти погонщика Везура. За скромную плату он поможет добраться до Пристани Страха, находящейся за замком]]></text>
+			<linkage area_id="301" location_id="303" />
+		</object>
+
+	</location>
+	
+	<location id="310" inner_flag_pos="189,170">
+		<title><![CDATA[Замок Файтвор]]></title>
+		
+		<enemy_pos inner_pos="208,126" />
+
+		<object id="chel_red" inner_pos="244,116">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гельдерион]]></item>
+		</object>
+
+		<object id="holy" inner_pos="226,159">
+			<title><![CDATA[Алтарь замка]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть у этого алтаря.]]></text>			
+		</object>
+
+
+		<object id="libra" inner_pos="194,119">
+			<title><![CDATA[Магазин замка]]></title>
+			<text><![CDATA[В этом магазине продаются как обычные товары, так и необыкновенные вещи, доступные только владеющему замком клану]]></text>
+		</object>
+
+		<object id="farm_fish" inner_pos="298,97">
+			<title><![CDATA[Рыба в подземелье замка]]></title>
+			<item><![CDATA[Сумрачная Нидла [120]]]></item>
+	       </object>
+		<object id="farm_floor" inner_pos="223,204">
+			<title><![CDATA[Растения в подземелье замка]]></title>
+			<item><![CDATA[Лигрил [120]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="158,205">
+			<title><![CDATA[Драгоценные камни в подземелье замка]]></title>
+			<item><![CDATA[Веридий [120]]]></item>
+		</object>
+
+
+	</location>
+	
+	<location id="302" inner_flag_pos="299,293" inner_manor_pos="290,325">
+		<title><![CDATA[Пригород Файтвора]]></title>
+		
+		<enemy_pos inner_pos="372,263" />
+		
+		<object id="farm_fish" inner_pos="270,355">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Синежабрый хабус [240]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="246,324">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Жар-цвет [120]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="367,272">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Янтарь [120]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="311,229">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Изгой Красных топоров [5]]]></item>
+			<item><![CDATA[Ренегат Красных топоров [6]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="336,257">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Демонолог Берруш]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="250,278" race="mag">
+			<title><![CDATA[Казематы Бальтазара]]></title>
+			<text><![CDATA[Дом, ставший темницей для Бальтазара - демона, вызванного в наш мир из-за ошибки демонолога]]></text>			
+		</object>
+
+
+	</location>
+	
+	<location id="303" inner_flag_pos="419,365" inner_manor_pos="405,395">
+		<title><![CDATA[Вотчина скал]]></title>
+		
+		<enemy_pos inner_pos="510,333" />		
+		
+		<object id="farm_fish" inner_pos="487,272">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Златоперая семга [120]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="327,419">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="414,295">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="477,418">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Ловкая фицилия [4]]]></item>
+			<item><![CDATA[Кроган [4]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="374,340">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Кузнец Тунгур]]></item>
+		</object>
+
+		<object id="holy" inner_pos="385,433">
+			<title><![CDATA[Обелиск]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть при помощи этого обелиска]]></text>			
+		</object>
+
+		<object id="chel_red" inner_pos="476,326">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Беженка Эльза]]></item>
+		</object>
+
+		<object id="deep" inner_pos="460,370">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает на Переправу Виверна]]></text>
+			<linkage area_id="301" location_id="311" />
+		</object>
+
+
+	</location>
+	
+	<location id="304" inner_flag_pos="366,130"  inner_manor_pos="460,155">
+		<title><![CDATA[Пристань страха]]></title>
+		
+		<enemy_pos inner_pos="475,141" />
+
+		<object id="farm_fish" inner_pos="439,202">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+		
+			<object id="deep" inner_pos="400, 135">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Тихую бухту при наличии амулета «Ловец времени»]]></text>
+			<linkage area_id="640" location_id="641" />
+			</object>
+
+		<object id="farm_floor" inner_pos="353,188">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="429,160">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="396,188">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Фицилия [3]]]></item>
+			<item><![CDATA[Кроган [4]]]></item>
+		</object>
+
+
+		<object id="chel_red" inner_pos="328,157">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Караульный Грумр]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="460,160">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Командир Медор]]></item>
+		</object>
+	</location>
+
+</area>
+
+</areas>

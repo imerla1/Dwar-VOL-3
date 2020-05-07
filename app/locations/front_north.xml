@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="918" src="area_918.swf" rect="3650,110,4800,901">
+	<title><![CDATA[Северный разлом]]></title>
+
+	<location id="919" inner_flag_pos="850,450" inner_front_pos="100,130">
+		<title><![CDATA[Длань бездны [11]]]></title>
+	</location>
+	<location id="920" inner_flag_pos="762,360" inner_front_pos="50,35">
+		<title><![CDATA[Длань бездны [12]]]></title>
+	</location>
+	<location id="921" inner_flag_pos="700,250" inner_front_pos="30,40">
+		<title><![CDATA[Длань бездны [13]]]></title>
+	</location>
+	<location id="922" inner_flag_pos="380,70" inner_front_pos="27,20">
+		<title><![CDATA[Длань бездны [14]]]></title>
+	</location>
+	<location id="923" inner_flag_pos="260,80" inner_front_pos="27,30">
+		<title><![CDATA[Длань бездны [15]]]></title>
+	</location>
+</area>
+
+</areas>

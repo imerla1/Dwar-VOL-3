@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+<area id="381" src="area_381.swf" rect="3873,28,4745,362">
+	
+	<title><![CDATA[Край земли]]></title>
+
+<location id="387" inner_flag_pos="737,223" inner_manor_pos="600,90">
+		<title><![CDATA[Боевой лагерь Крофдоров]]></title>
+		
+		<enemy_pos inner_pos="635,165" />
+	
+	<object id="monster" inner_pos="648,105">
+	<title><![CDATA[Монстры]]></title>
+	<item><![CDATA[Лютый Крофдор [12]]]></item>
+	</object>
+
+
+<object id="chel_blue" inner_pos="681,137">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Димедора]]></item>					
+		</object>
+
+<object id="farm_floor" inner_pos="740,180">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Соломенник [210]]]></item>
+			<item><![CDATA[Исхандрия пламенеющая [270]]]></item>
+			<item><![CDATA[Техра многоцветная [270]]]></item>
+			<item><![CDATA[Цепторис сорный [270]]]></item>
+		</object>
+
+<object id="star_2" inner_pos="542,141">
+			<title><![CDATA[Земли забвения]]></title>
+			<text><![CDATA[Души погибших эльдивов и крофдоров устремляются в Земли забвения, призрачные копии территорий древних рас в Фэо, на которых бесплотные воители продолжают бесконечную войну друг с другом]]></text>			
+		</object>
+
+<object id="farm_rock" inner_pos="547,70">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Темный железняк [210]]]></item>
+			<item><![CDATA[Рутиан [270]]]></item>
+			<item><![CDATA[Кариатид [270]]]></item>
+			<item><![CDATA[Горный лагр [270]]]></item>
+		</object>
+
+<object id="farm_fish" inner_pos="780,220">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Крапчатый шаробрюх [210]]]></item>
+			<item><![CDATA[Рыба-шутиха [270]]]></item>
+			<item><![CDATA[Скрубус [270]]]></item>
+			<item><![CDATA[Плотоядная Шу [270]]]></item>
+		</object>
+
+</location>
+
+<location id="429" inner_flag_pos="340,70" inner_manor_pos="280,90">
+		<title><![CDATA[Мертвый дол]]></title>
+		
+		<enemy_pos inner_pos="493,101" />
+		
+		<object id="monster" inner_pos="294,49">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Воительница Крофдоров [13]]]></item>			
+		</object>
+		<object id="farm_floor" inner_pos="344,49">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Синевита ложная [300]]]></item>
+			<item><![CDATA[Ахайа-губительница [300]]]></item>
+			<item><![CDATA[Чайный желтолиц [300]]]></item>
+
+		</object>
+		<object id="chel_blue" inner_pos="420,60">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Свудор]]></item>					
+		</object>
+		<object id="farm_rock" inner_pos="364,100">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Верделит [210]]]></item>
+			<item><![CDATA[Сталактис [300]]]></item>
+			<item><![CDATA[Диралин [300]]]></item>
+			<item><![CDATA[Сумерит [300]]]></item>
+
+		</object>
+		<object id="farm_fish" inner_pos="420,100">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Дискус [300]]]></item>
+			<item><![CDATA[Тепловодный нарлин [300]]]></item>
+			<item><![CDATA[Чиаппа брюхоногая [300]]]></item>
+		</object>
+</location>
+
+<location id="434" inner_flag_pos="343,190">
+		<title><![CDATA[Роза ветров]]></title>
+		
+		<enemy_pos inner_pos="305,189" />
+		
+		<object id="chel_gray" inner_pos="290,166">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Кузнец Гротербах]]></item>					
+		</object>
+		
+		<object id="farm_rock" inner_pos="324,158">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Фосфорит [60]]]></item>
+		</object>
+	
+		<object id="farm_fish" inner_pos="282,232">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Ульфас [60]]]></item>
+		</object>
+				
+		<object id="holy" inner_pos="339,240">
+			<title><![CDATA[Алтарь]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть у этого алтаря, а травмированный – исцелить свои раны.]]></text>			
+		</object>
+	
+</location>
+
+<location id="535" inner_flag_pos="135,75" inner_manor_pos="175,55">
+			<title><![CDATA[Ровенгардский разлом]]></title>
+			
+			<enemy_pos inner_pos="234,66" />
+			
+		<object id="monster" inner_pos="60,40">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Лорд Крофдоров [14]]]></item>
+		</object>
+		<object id="farm_floor" inner_pos="60,80">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Орхидея [330]]]></item>
+			<item><![CDATA[Гайценелла [330]]]></item>
+			<item><![CDATA[Якуба [330]]]></item>
+			<item><![CDATA[Клаурия [360]]]></item>
+			<item><![CDATA[Целестия [360]]]></item>
+			<item><![CDATA[Мельфея [360]]]></item>
+
+		</object>
+		<object id="farm_rock" inner_pos="100,45">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Гелиодор [330]]]></item>
+			<item><![CDATA[Хризопраз [330]]]></item>
+			<item><![CDATA[Оливин [330]]]></item>
+			<item><![CDATA[Лирос [360]]]></item>
+			<item><![CDATA[Океанит [360]]]></item>
+			<item><![CDATA[Жильмарин [360]]]></item>
+
+		</object>
+		<object id="farm_fish" inner_pos="180,80">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Янтарный хелмон [330]]]></item>
+			<item><![CDATA[Чиньга-однодневка [330]]]></item>
+			<item><![CDATA[Бельта [330]]]></item>
+			<item><![CDATA[Калпари[360]]]></item>
+			<item><![CDATA[Слизни-неразлучники [360]]]></item>
+			<item><![CDATA[Коралловый слизень [360]]]></item>
+
+		</object>
+</location>
+</area>
+</areas>

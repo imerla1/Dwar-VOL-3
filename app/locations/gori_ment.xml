@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="131" src="area_131.swf" rect="3049,487,3711,847">
+	<title><![CDATA[Горы Менталия]]></title>
+	
+	<location id="133" inner_flag_pos="275,285" inner_manor_pos="255,285">
+		<title><![CDATA[Поселение Ментали]]></title>
+
+		<enemy_pos inner_pos="272,243" />
+		
+		<object id="monster" inner_pos="340,305">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Глиняный голем [6]]]></item>
+			<item><![CDATA[Каменный голем [7]]]></item>
+			<item><![CDATA[Гранитный голем [8]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="225,280">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Путана Магдалена]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="281,219">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Изумруд [60]]]></item>
+			<item><![CDATA[Эсмерат [150]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="295,250" race="mag">
+			<title><![CDATA[Болото Богельфа]]></title>
+			<text><![CDATA[Древнее болото, окруженное, словно туманом, вечным покровом тайны. Лабиринт запутанных троп и проходов, в которых рыщут зловещие ядовитые монстры. Именно здесь, судя по слухам, обитает ужасный выкормыш древней мощи болот – Богельф]]></text>			
+		</object>
+
+
+		<object id="farm_floor" inner_pos="308,275">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Розмарин [30]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+		</object>
+
+	</location>
+
+	<location id="132" inner_flag_pos="180,227" inner_manor_pos="195,210">
+		<title><![CDATA[Ущелье Гонди]]></title>
+		
+		<enemy_pos inner_pos="122,223" />
+
+		<object id="monster" inner_pos="100,242">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Каменный голем [7]]]></item>
+			<item><![CDATA[Гранитный голем [8]]]></item>
+		</object>
+
+
+		<object id="chel_red" inner_pos="163,176">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Колдун Хорсунгум]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="88,212">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Каменная глыба]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="147,201">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Дух огня]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="143,243">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Анемон [60]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Хельта [150]]]></item>
+			<item><![CDATA[Кувшинник [150]]]></item>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="60,240">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Рубин [60]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+			<item><![CDATA[Целестин [180]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="135" inner_flag_pos="275,147" inner_manor_pos="315,147">
+		<title><![CDATA[Предгорье Менталии]]></title>
+		
+		<enemy_pos inner_pos="364,121" />
+
+		<object id="monster" inner_pos="326,67">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гранитный голем [8]]]></item>
+		</object>
+
+
+
+		<object id="farm_rock" inner_pos="251,94">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+			<item><![CDATA[Целестин [180]]]></item>
+			<item><![CDATA[Флюорит [180]]]></item>
+			<item><![CDATA[Верделит [210]]]></item>
+			<item><![CDATA[Ледянник [210]]]></item>
+
+		</object>
+
+		<object id="chel_red" inner_pos="217,136">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыбак Вилис]]></item>
+		</object>
+		
+		<object id="chel_red" inner_pos="355,155">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Укротитель Орфин]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="250,144">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Хельта [150]]]></item>
+			<item><![CDATA[Кувшинник [150]]]></item>
+			<item><![CDATA[Хоста [180]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Ветрица [180]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="255,186">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Синежабрый хабус [240]]]></item>
+		</object>
+
+	</location>
+
+	<location id="134" inner_flag_pos="465,93" inner_manor_pos="495,93">
+		<title><![CDATA[Поднебесье]]></title>
+		
+		<enemy_pos inner_pos="614,123" />
+		
+		<object id="star_2" inner_pos="457,79" race="mag">
+			<title><![CDATA[Крепость Изгнанников]]></title>
+			<text><![CDATA[Мрачная крепость, в которую были заточены великой Шеарой коварные маги-драконы, осмелившиеся выкрасть у нее Скрижаль дракона-прародителя. Долгие годы узники вынашивали планы мести, пока однажды им не удалось вырваться из стен острога во главе с могущественным Драконом-магом Харвадусом. Ныне крепость является зловещей обителью магов-драконов и их ужасной армии, состоящей из полчищ яростных чудовищ.]]></text>			
+		</object>
+		
+		<object id="monster" inner_pos="430,65">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Большой скорпион [9]]]></item>
+			<item><![CDATA[Королевский скорпион [10]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="556,132">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Драконова кровь [150]]]></item>
+			<item><![CDATA[Фиолин [150]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+			<item><![CDATA[Ледянник [210]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="510,122">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Повей-трава [150]]]></item>
+			<item><![CDATA[Спелый гиамбир [180]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+			<item><![CDATA[Нарцисс [210]]]></item>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="136" inner_flag_pos="415,232" inner_manor_pos="340,210">
+		<title><![CDATA[Кряж Мрака]]></title>
+
+		<enemy_pos inner_pos="594,188" />
+
+		<object id="libra" inner_pos="354,235">
+			<title><![CDATA[Магазин наемников]]></title>
+			<text><![CDATA[В этом магазине наемники закупают необходимые им товары и оружие.]]></text>
+</object>
+
+
+		<object id="chel_red" inner_pos="380,255">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Черный рыцарь]]></item>
+		</object>
+		<object id="chel_red" inner_pos="386,187">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Кровожадный Хью]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="492,218">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+			<item><![CDATA[Верделит [210]]]></item>
+			<item><![CDATA[Магнетит [210]]]></item>
+			<item><![CDATA[Корганит [240]]]></item>
+			<item><![CDATA[Армедьянк [240]]]></item>
+			<item><![CDATA[Смараглис [240]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="490,170">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+			<item><![CDATA[Эльтский Гиамбир [240]]]></item>
+			<item><![CDATA[Аракша дурманная [240]]]></item>
+			<item><![CDATA[Ирвис розоволистный [240]]]></item>
+			<item><![CDATA[Полевой яркоцвет [240]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="533,191">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+			<item><![CDATA[Кольчатый жабрень [240]]]></item>
+			<item><![CDATA[Златеница марийская [240]]]></item>
+			<item><![CDATA[Трехполосная фиусса [240]]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="440,200">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Королевский скорпион [10]]]></item>
+			<item><![CDATA[Темный Крофдор [11]]]></item>
+			<item><![CDATA[Эльдивианка-воительница [11]]]></item>
+		</object>
+
+		
+	<object id="star_2" inner_pos="439,160" race="mag">
+			<title><![CDATA[Нагорье скорпионов]]></title>
+			<text><![CDATA[Возвышенность, ставшая кладбищем для магов, которые ошиблись во время проведения ритуала, и их помощников. Пещера, расположенная у входа в нагорье, служит домом сильнейшему в своем роде Царю скорпионов.]]></text>			
+		</object>
+
+
+
+	</location>
+
+
+</area>
+
+</areas>

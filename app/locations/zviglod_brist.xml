@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="268" src="area_268.swf" rect="2124,495,2864,875">
+	<title><![CDATA[Звиглод брист]]></title>
+		
+	<location id="273" inner_flag_pos="160,222" inner_manor_pos="110,268">
+		<title><![CDATA[Чаща затмения]]></title>
+
+		<enemy_pos inner_pos="163,314" />
+
+		<object id="tower" inner_pos="93,225">
+			<title><![CDATA[Вертеп Вершителей зла]]></title>
+			<text><![CDATA[Мрачное строение, ставшее приютом для всех злодеев Фэо. Обратившись к Изуверу, здесь можно создать порчельники, а также, найдя общий язык с Файтуриозом , приготовить сильнейшие настойки и призвать в наш мир Буяку. В вертепе расположен Склад контрабанды, содержащий обширный ассортимент злодейских товаров, а также пещера с телепортами, способными в мгновение ока доставить вас во многие точки мира.]]></text>			
+		</object>
+
+<object id="group_red" inner_pos="107,198" loc_id="362">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Изувер]]></item>
+			<item><![CDATA[Рабыня Юминия]]></item>
+		</object>
+
+		<object id="monster" inner_pos="150,172">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненный Крофдор [10]]]></item>
+			<item><![CDATA[Эльдив-воин [10]]]></item>
+			<item><![CDATA[Темный Крофдор [11]]]></item>
+			<item><![CDATA[Эльдивианка-воительница [11]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="81,282">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Жар-цвет [120]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Хоста [180]]]></item>
+			<item><![CDATA[Ведовница [210]]]></item>
+			<item><![CDATA[Аракша дурманная [240]]]></item>
+			<item><![CDATA[Ирвис розоволистный [240]]]></item>
+			<item><![CDATA[Полевой яркоцвет [240]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="168,255">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Янтарь [120]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+			<item><![CDATA[Флюорит [180]]]></item>
+			<item><![CDATA[Кахолонг [180]]]></item>
+			<item><![CDATA[Магнетит [210]]]></item>
+			<item><![CDATA[Ледянник [210]]]></item>
+			<item><![CDATA[Корганит [240]]]></item>
+			<item><![CDATA[Армедьянк [240]]]></item>
+			<item><![CDATA[Смараглис [240]]]></item>
+		</object>
+
+	</location>
+	
+	<location id="272" inner_flag_pos="240,184" inner_manor_pos="255,224">
+		<title><![CDATA[Заросли дурмана]]></title>
+		
+		<enemy_pos inner_pos="307,141" />
+		
+		<object id="farm_floor" inner_pos="233,137">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="225,233">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Изумруд [60]]]></item>
+		</object>
+		<object id="monster" inner_pos="334,158">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Древень молодой [4]]]></item>
+			<item><![CDATA[Скелет орка-завоевателя [5]]]></item>
+		</object>
+		<object id="chel_red" inner_pos="279,174">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ученый Авелиус]]></item>
+		</object>
+	
+	</location>
+	
+	<location id="271" inner_flag_pos="362,220" inner_manor_pos="362,205">
+		<title><![CDATA[Каньон бессмертия]]></title>
+		
+		<enemy_pos inner_pos="406,282" />
+
+		<object id="star_2" inner_pos="423,230" race="mag">
+			<title><![CDATA[Зачарованный лес]]></title>
+			<text><![CDATA[Не стоит входить под высокие своды Зачарованного леса безоружным – с виду спокойный и тихий уголок природы может обернуться пристанищем ужасных чудовищ.]]></text>			
+		</object>
+		<object id="star_2" inner_pos="380,240" race="mag">
+			<title><![CDATA[Эльфийское святилище]]></title>
+			<text><![CDATA[Вдали от дорог и многочисленных селений, в кольце отвесных гор сокрыто от любопытных взоров древнее святилище темных эльфов. Превратившиеся в нежить темные эльфы, хранители потаенного места, под предводительством могущественной королевы Андорвэн, не допустят чужаков в свои владения.]]></text>			
+		</object>
+
+		<object id="farm_floor" inner_pos="306,236">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="423,262">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="344,268">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Хакурт бурый [4]]]></item>
+			<item><![CDATA[Древень [4]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="302,269">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Эдера]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="372,209">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Алтарь жизни]]></item>
+		</object>
+	</location>
+	
+	<location id="270" inner_flag_pos="522,107" inner_manor_pos="522,80">
+		<title><![CDATA[Звиглодская дубрава]]></title>
+		
+		<enemy_pos inner_pos="435,113" />
+		
+		<object id="farm_floor" inner_pos="455,92">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="495,100">
+			<title><![CDATA[Драгоценные камни]]></title>
+		</object>
+		<object id="monster" inner_pos="415,141">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненная паучиха [3]]]></item>
+			<item><![CDATA[Древень молодой [4]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+		<object id="chel_red" inner_pos="470,135">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Лесник Хорхен]]></item>
+		</object>
+		<object id="farm_fish" inner_pos="437,169">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Риффа [180]]]></item>
+			<item><![CDATA[Панцирный динихтис [180]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+	</location>
+	
+	<location id="269" inner_flag_pos="598,160" inner_manor_pos="598,100">
+		<title><![CDATA[Деревня звиглод]]></title>
+		
+		<enemy_pos inner_pos="577,240" />
+
+		<object id="farm_floor" inner_pos="590,64">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="646,165">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+		</object>
+		<object id="monster" inner_pos="498,229">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненная паучиха [3]]]></item>
+			<item><![CDATA[Пепельный паук [3]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+	</location>
+	
+</area>
+
+
+</areas>

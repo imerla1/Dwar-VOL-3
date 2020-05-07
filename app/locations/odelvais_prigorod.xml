@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="4" src="area_4.swf" rect="3545,1711,4392,2120">
+	<title><![CDATA[Пригород О`Дельвайса]]></title>
+	
+	<location id="6" inner_flag_pos="692,305" inner_manor_pos="692,345">
+		<title><![CDATA[Селение Баурвилл]]></title>
+		
+		<enemy_pos inner_pos="787,298" />
+
+		<object id="deep" inner_pos="627,362">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в пригорье Чиньонских гор]]></text>
+			<linkage area_id="15" location_id="16" />
+		</object>
+
+		<object id="farm_floor" inner_pos="665,292">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Чертополох [0]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="739,261">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+			<item><![CDATA[Патрульный маг О`Дельвайса [11]]]></item>
+			<item><![CDATA[Шальной пес [1]]]></item>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+		</object>
+
+
+		<object id="farm_rock" inner_pos="712,264">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="group_blue" inner_pos="636,282" loc_id="367">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Красотка Мэри]]></item>
+                        <item><![CDATA[Вышибала Миклута]]></item>
+ 			<item><![CDATA[Странник Ховей]]></item>
+ 			<item><![CDATA[Катала]]></item>
+ 			<item><![CDATA[Смотритель Раф]]></item>
+ 			<item><![CDATA[Амели]]></item>
+ 			<item><![CDATA[Сиплый]]></item>
+ 			<item><![CDATA[Шкалик]]></item>
+			<item><![CDATA[Бука]]></item>
+ 			<item><![CDATA[Багурон]]></item>
+		</object>
+
+		<object id="libra" inner_pos="740,318">
+			<title><![CDATA[Магазин подарков]]></title>
+			<text><![CDATA[Этот магазин специализируется на продаже самых разнообразных подарков]]></text>
+		</object>
+
+
+
+	</location>
+
+	<location id="18" inner_flag_pos="560,298" inner_manor_pos="455,298">
+		<title><![CDATA[Деревня Кингала]]></title>
+		
+		<enemy_pos inner_pos="452,252" />
+		
+		<object id="chel_blue" inner_pos="476,318">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Милая Мила]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="579,276" race="hum">
+			<title><![CDATA[Заброшенный дом]]></title>
+			<text><![CDATA[Бывшее жилище мага Линграонца, которого король Магиш обратил на темную сторону. Теперь этот дом стал опасной ловушкой для всех смертных, дерзнувших проникнуть внутрь]]></text>			
+		</object>
+
+		<object id="monster" inner_pos="525,273">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+			<item><![CDATA[Патрульный маг О`Дельвайса [11]]]></item>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="485,255">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="550,333">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="20" inner_flag_pos="243,120" inner_manor_pos="243,100">
+		<title><![CDATA[Округ Виригия]]></title>
+		
+		<enemy_pos inner_pos="362,199" />		
+
+		<object id="farm_floor" inner_pos="324,136">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="288,117">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Моряк Берд]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="301,165">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="236,72">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+			<item><![CDATA[Патрульный маг О`Дельвайса [11]]]></item>
+			<item><![CDATA[Пес-демон [3]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Древень молодой [4]]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="260,158">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Лазурный лосось [120]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+		</object>
+
+	</location>
+
+	<location id="19" inner_flag_pos="227,237" inner_manor_pos="227,210">
+		<title><![CDATA[Поместье Уирголд]]></title>
+		
+		<enemy_pos inner_pos="165,189" />
+
+		<object id="monster" inner_pos="97,281">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Древень молодой [4]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Медведь Пхадд [5]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="155,287">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Обсидиан [30]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="104,231">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Розмарин [30]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="210,260">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Клерик Самуил]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="240,235">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Наездница Арника]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="161,206" loc_id="340">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Норак Доброхот]]></item>
+		</object>
+		<object id="holy" inner_pos="191,206">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+		<object id="tower" inner_pos="176,221">
+			<title><![CDATA[Обитель Братства Добродетели]]></title>
+			<text><![CDATA[Эта территория защищается Братством, любые военные действия на ней разрешены только против Вершителей зла. Также для служителей Братства здесь работает Святилище, в котором они могут приобретать специальные свитки и снадобья]]></text>
+		</object>
+
+
+
+
+
+
+	</location>
+
+	
+</area>
+
+</areas>

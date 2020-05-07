@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="15" src="area_15.swf" rect="2125,1637,3257,2381">
+	<title><![CDATA[Чионьские горы]]></title>
+	
+	<location id="16" inner_flag_pos="627,160">
+			<title><![CDATA[Пригорье]]></title>
+
+			<enemy_pos inner_pos="714,233" />
+			
+		<object id="monster" inner_pos="734,171">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [10]]]></item>
+			<item><![CDATA[Патрульный маг О`Дельвайса [11]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="760,132">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Фиолин [150]]]></item>
+			<item><![CDATA[Целестин [180]]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="666,100">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Хранитель Шоду]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="568,170">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Эрифариус]]></item>
+		</object>
+		<object id="libra" inner_pos="715,110">
+			<title><![CDATA[Арсенал]]></title>
+			<text><![CDATA[В этом арсенале обладатели воинских званий и репутации Подземных рыцарей могут приобрести отличное военное снаряжение и боевые эликсиры]]></text>
+		</object>
+
+		<object id="star_2" inner_pos="671,144" race="hum">
+		<title><![CDATA[Вход в кристаллические пещеры]]></title>
+			<text><![CDATA[Вход в огромные кристаллические пещеры, расположенные под землей на территории плато безмолвия]]></text>
+		</object>
+
+
+		<object id="deep" inner_pos="584,112">
+		<title><![CDATA[Портал в пригород О`Дельвайса]]></title>
+			<text><![CDATA[Перемещает людей в селение Баурвилл]]></text>
+			<linkage area_id="4" location_id="6" />
+		</object>
+
+	</location>
+
+	<location id="106" inner_flag_pos="524,385">
+		<title><![CDATA[Плато безмолвия]]></title>
+
+		<enemy_pos inner_pos="644,339" />
+		
+		<object id="chel_gray" inner_pos="442,422">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гизедор]]></item>
+		</object>
+
+		<object id="boss" inner_pos="590,366">
+			<title><![CDATA[Сверхсущества]]></title>
+			<item><![CDATA[УйаррМО изгнанник [12]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="601,289">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл-изгнанник [6]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="520,430">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object> 
+		
+		<object id="farm_floor" inner_pos="480,380">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+	</location>
+
+	<location id="412" inner_flag_pos="445,309">
+		<title><![CDATA[Пещера демонолога]]></title>
+		
+	</location>
+
+	<location id="167" inner_flag_pos="200,500">
+		<title><![CDATA[Адский перевал]]></title>
+		
+		<enemy_pos inner_pos="301,464" />
+
+		<object id="deep" inner_pos="148,499">
+		<title><![CDATA[Портал в пригород Дартронга]]></title>
+			<text><![CDATA[Перемещает магмаров в селение Файтир]]></text>
+			<linkage area_id="8" location_id="10" />
+		</object>
+		
+		<object id="farm_rock" inner_pos="180,530">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Фиолин [150]]]></item>
+			<item><![CDATA[Целестин [180]]]></item>
+		</object>
+		
+		<object id="chel_red" inner_pos="166,424">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Хранитель Вигор]]></item>
+		</object>
+		<object id="chel_red" inner_pos="318,473">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Стриагорн]]></item>
+		</object>
+
+		<object id="libra" inner_pos="163,562">
+			<title><![CDATA[Арсенал]]></title>
+			<text><![CDATA[В этом арсенале обладатели воинских званий и репутации Подземных рыцарей могут приобрести отличное военное снаряжение и боевые эликсиры]]></text>
+		</object>
+		
+		<object id="star_2" inner_pos="283,512" race="mag">
+		<title><![CDATA[Вход в кристаллические пещеры]]></title>
+			<text><![CDATA[Вход в огромные кристаллические пещеры, расположенные под землей на территории плато безмолвия]]></text>
+		</object>
+
+		<object id="monster" inner_pos="242,373">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Патрульный Дартронга [10]]]></item>
+			<item><![CDATA[Патрульный маг Дартронга [11]]]></item>
+		</object>
+
+	</location>
+
+	<location id="179" inner_flag_pos="430,570">
+		<title><![CDATA[Чионьское поселение]]></title>
+		
+		<enemy_pos inner_pos="504,561" />
+		
+		<object id="chel_red" inner_pos="435,510">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыцарь Блоу]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="385,650">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+		</object>
+		
+		<object id="chel_red" inner_pos="480,520">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыцарь Кабур	]]></item>
+		</object>
+		
+		<object id="star_2" inner_pos="440,620" race="mag">
+			<title><![CDATA[Вход в храм избранных]]></title>
+			<text><![CDATA[Храм представляет собой сложное сооружение внутри скалы с необычным преобразователем в центре зала, который использовался избранными для производства магических артефактов. Борьба за него между людьми и магмарами не угасает и по сей день]]></text>
+		</object>
+		<object id="star_2" inner_pos="479,477" race="mag">
+			<title><![CDATA[Вход на арену]]></title>
+			<text><![CDATA[Арена подземных рыцарей - ристалище, на котором сходятся в боях рыцари расы людей и расы магмаров]]></text>
+		</object>
+		
+		<object id="farm_rock" inner_pos="420,470">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эсмерат [150]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object> 
+		
+		<object id="farm_floor" inner_pos="480,580">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ветрица [180]]]></item>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+		
+	</location>
+
+	<location id="336" inner_flag_pos="611,444">
+		<title><![CDATA[Равнина безумия]]></title>
+
+		<enemy_pos inner_pos="576,519" />
+		
+		<object id="star_2" inner_pos="655,467">
+			<title><![CDATA[Залы Талаара]]></title>
+			<text><![CDATA[Этот древний храм был воздвигнут группой отступников для поклонения великому богу разрушения и стражу Вселенной, Таллаару.]]></text>
+		</object>
+		
+		<object id="farm_floor" inner_pos="655,587">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="570,547">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+		<object id="farm_fish" inner_pos="700,522">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+			<item><![CDATA[Синежабрый хабус [240]]]></item>
+		</object>
+
+	</location>
+
+	<location id="178" inner_flag_pos="750,340">
+		<title><![CDATA[Ратный стан]]></title>
+		
+		<enemy_pos inner_pos="890,361" />
+		
+		<object id="chel_blue" inner_pos="690,300">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыцарь Ферци]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="815,346">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыцарь Берц]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="835,400">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+		</object>
+		
+		<object id="star_2" inner_pos="800,280" race="hum">
+			<title><![CDATA[Вход в храм избранных]]></title>
+			<text><![CDATA[Храм представляет собой сложное сооружение внутри скалы с необычным преобразователем в центре зала, который использовался избранными для производства магических артефактов. Борьба за него между людьми и магмарами не угасает и по сей день]]></text>
+		</object>
+
+		<object id="star_2" inner_pos="711,335" race="hum">
+			<title><![CDATA[Вход на арену]]></title>
+			<text><![CDATA[Арена подземных рыцарей - ристалище, на котором сходятся в боях рыцари расы людей и расы магмаров]]></text>
+		</object>
+		
+		<object id="farm_rock" inner_pos="750,300">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эсмерат [150]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object> 
+		
+		<object id="farm_floor" inner_pos="865,290">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ветрица [180]]]></item>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+		
+	</location>
+
+	
+</area>
+
+
+</areas>

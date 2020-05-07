@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="924" src="area_924.swf" rect="1195,3300,2395,3900">
+	<title><![CDATA[Южный фронт]]></title>
+
+	<location id="925" inner_flag_pos="320,470" inner_front_pos="130,80">
+		<title><![CDATA[Длань небес [16]]]></title>
+	</location>
+	<location id="926" inner_flag_pos="1000,370" inner_front_pos="75,100">
+		<title><![CDATA[Длань небес [17]]]></title>
+	</location>
+	<location id="927" inner_flag_pos="490,520" inner_front_pos="80,60">
+		<title><![CDATA[Длань небес [18]]]></title>
+	</location>
+	<location id="928" inner_flag_pos="860,450" inner_front_pos="60,90">
+		<title><![CDATA[Длань небес [19]]]></title>
+	</location>
+	<location id="929" inner_flag_pos="660,520" inner_front_pos="150,60">
+		<title><![CDATA[Длань небес [20]]]></title>
+	</location>
+</area>
+
+</areas>

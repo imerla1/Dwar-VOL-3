@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="255" src="area_255.swf" rect="3000,1400,3450,2000">
+	<title><![CDATA[Острова Фей-Го]]></title>
+	
+	<location id="249" inner_flag_pos="185,130">
+		<title><![CDATA[Северный аванпост]]></title>
+		
+		<enemy_pos inner_pos="121,159" />
+
+		<object id="chel_red" inner_pos="165,98">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Страж Рухам]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="87,180">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="60,134">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="245,143">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Златоперая семга [120]]]></item>
+			<item><![CDATA[Като [150]]]></item>
+
+		</object>
+
+		<object id="monster" inner_pos="100,112">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+			<item><![CDATA[ГунглДО [6]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="132,84">
+			<title><![CDATA[Оружейный склад]]></title>
+			<text><![CDATA[В этой оружейке Борцы с Хаосом могут приобрести специальные артефакты и вооружение]]></text>
+		</object>
+
+		<object id="holy" inner_pos="183,135">
+			<title><![CDATA[Обелиск]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть при помощи этого обелиска]]></text>			
+		</object>
+
+
+	</location>
+
+	<location id="250" inner_flag_pos="103,308">
+		<title><![CDATA[Гиблое место]]></title>
+		
+		<enemy_pos inner_pos="196,279" />
+
+		<object id="farm_floor" inner_pos="146,232">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Горецвет]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			
+		</object>
+
+		<object id="monster" inner_pos="127,292">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Скелет пса-демона [5]]]></item>
+			<item><![CDATA[Скелет Руккуба [6]]]></item>
+		</object>
+
+		<object id="boss" inner_pos="161,309">
+			<title><![CDATA[Сверхсущества]]></title>
+			<item><![CDATA[Скелет Горбаха [10]]]></item>
+		</object>
+
+		<object id="chel_gray" inner_pos="85,234">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Йордин]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="95,264">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="105,354">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>	
+		</object>
+		
+
+	</location>
+
+	<location id="251" inner_flag_pos="250,255">
+		<title><![CDATA[Крепость заточения]]></title>
+
+		<enemy_pos inner_pos="368,306" />
+		
+		<object id="chel_gray" inner_pos="231,314" loc_id="460">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Орлуфия]]></item>
+		</object>
+		<object id="chel_gray" inner_pos="275,260" loc_id="263">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Колдун Миаллоу]]></item>
+		</object>
+		<object id="chel_gray" inner_pos="245,265" loc_id="259">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Полубог РаскриуЦу]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="260,291">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Росица [180]]]></item>
+			<item><![CDATA[Эльтский гиамбир [240]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="219,268">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="290,310">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Риффа [180]]]></item>
+			<item><![CDATA[Синежабрый хабус [240]]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="266,236">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[ГунглВО [7]]]></item>
+			<item><![CDATA[ГунглХО [8]]]></item>
+			<item><![CDATA[ГунглХО надзиратель [9]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="206,332">
+			<title><![CDATA[Старая библиотека]]></title>
+			<text><![CDATA[Старая библиотека хранит в себе много тайн и секретов]]></text>
+		</object>
+
+
+	</location>
+
+	<location id="252" inner_flag_pos="329,417">
+		<title><![CDATA[Южный аванпост]]></title>
+		
+		<enemy_pos inner_pos="226,446" />
+
+		<object id="chel_blue" inner_pos="260,426">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Капитан Баххаша]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="310,412">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ящер]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="188,385">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="219,390">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="241,473">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Лазурный лосось [120]]]></item>
+			<item><![CDATA[Като [150]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="310,485">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гунгл одиночка [5]]]></item>
+			<item><![CDATA[ГунглДО [6]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="299,444">
+			<title><![CDATA[Оружейный склад]]></title>
+			<text><![CDATA[В этой оружейке Борцы с Хаосом могут приобрести специальные артефакты и вооружение]]></text>
+		</object>
+
+		<object id="holy" inner_pos="336,429">
+			<title><![CDATA[Обелиск]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть при помощи этого обелиска]]></text>			
+		</object>
+
+
+	</location>
+	
+</area>
+
+</areas>

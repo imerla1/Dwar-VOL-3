@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+ <!-- 462 479-->
+<area id="501" src="area_501.swf" rect="1376,2884,2136,3424"> 
+	<title><![CDATA[Ледовитое море]]></title>
+    
+    <location id="506" inner_flag_pos="422,240">
+		<title><![CDATA[Воды забвения]]></title>
+		
+		<enemy_pos inner_pos="556,207" />
+        
+        <object id="monster" inner_pos="475,180">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гребенчатый геланф [7]]]></item>
+			<item><![CDATA[Глубинный геланф [7]]]></item>
+		</object>
+		
+		<object id="deep" inner_pos="380, 185">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Эльдивское море]]></text>
+			<linkage area_id="500" location_id="509" />
+		</object>
+		
+		<object id="farm_fish" inner_pos="455,200">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Рыба-светлячок [150]]]></item>
+			<item><![CDATA[Риффа [180]]]></item>
+		</object>
+		
+	</location>
+
+	<location id="507" inner_flag_pos="310,240">
+		<title><![CDATA[Темные воды]]></title>
+		
+		<enemy_pos inner_pos="398,156" />
+        
+        <object id="monster" inner_pos="310,150">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гребенчатый геланф [7]]]></item>
+			<item><![CDATA[Глубинный геланф [7]]]></item>
+		</object>
+				
+		<object id="farm_fish" inner_pos="280,170">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Рыба-светлячок [150]]]></item>
+			<item><![CDATA[Риффа [180]]]></item>
+		</object>
+	</location>
+</area>
+
+</areas>

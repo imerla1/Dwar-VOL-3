@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="190" src="area_190.swf" rect="2400,129,3077,619">
+	<title><![CDATA[Огненные версты]]></title>
+
+	<location id="191" inner_flag_pos="325,110" inner_manor_pos="295,130">
+		<title><![CDATA[Поселок Чернаг]]></title>
+		
+		<enemy_pos inner_pos="194,165" />
+
+		<object id="star_2" inner_pos="222,83" race="mag">
+			<title><![CDATA[Вход в катакомбы]]></title>
+			<text><![CDATA[Вход в катакомбы, в которых могущественные маги прошлого спрятали свои сокровища и приставили настоящего дракона их охранять]]></text>			
+		</object>
+		
+		<object id="chel_red" inner_pos="263,137">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Вождь Торгор]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="218,137">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Крэтс [1]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="188,99">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В магазине вы можете приобрести различные товары, починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="arena" inner_pos="145,175">
+			<title><![CDATA[Арена]]></title>
+			<text><![CDATA[На арене вы можете провести дуэль, групповой или хаотический бой, а также сразиться с тренерами]]></text>
+		</object>
+
+		<object id="hammer" inner_pos="186,192">
+			<title><![CDATA[Аукцион]]></title>
+			<text><![CDATA[На аукционе вы сможете купить товары других игроков по самым выгодным ценам или выгодно продать любой товар, если он представляет какую-либо ценность в мире Фэо]]></text>
+		</object>
+
+		<object id="mail" inner_pos="152,121">
+			<title><![CDATA[Почта]]></title>
+			<text><![CDATA[Почта Дартронга позволяет магмарам пересылать письма вещи и деньги]]></text>			
+		</object>
+
+
+		<object id="holy" inner_pos="275,82">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+
+	</location>
+
+	<location id="192" inner_flag_pos="428,162" inner_manor_pos="500,162">
+		<title><![CDATA[Дымные сопки]]></title>
+		
+		<enemy_pos inner_pos="571,199" />
+
+		<object id="chel_red" inner_pos="497,129">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Командир Норий]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="590,135">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Чертополох [0]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="466,236">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Крэтс [1]]]></item>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="507,207" race="mag">
+			<title><![CDATA[Логово Крэтсов]]></title>
+			<text><![CDATA[Логово Крэтсов представляет собой целую сеть туннелей уходящих глубоко под землю. Говорят, что там можно набрести на тайники, в которые Крэтсы прячут свои сокровища]]></text>			
+		</object>
+
+	</location>
+
+	<location id="226" inner_flag_pos="337,310" inner_manor_pos="320,290">
+		<title><![CDATA[Станица Дыбрач]]></title>
+		
+		<enemy_pos inner_pos="433,308" />
+
+		<object id="monster" inner_pos="256,315">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Крэтс-лидер [2]]]></item>
+			<item><![CDATA[Огненная паучиха [3]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="320,340">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Правитель Онуфир]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="261,363">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Огневик]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="367,338">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мясник Боров]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="227" inner_flag_pos="260,208" inner_manor_pos="260,238">
+		<title><![CDATA[Чернагское ущелье]]></title>
+		
+		<enemy_pos inner_pos="366,240" />
+
+		<object id="monster" inner_pos="309,242">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Крэтс-вожак [3]]]></item>
+			<item><![CDATA[Огненный паук [2]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="292,188">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мальчик Лука]]></item>
+		</object>
+
+
+		<object id="chel_red" inner_pos="253,189">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гусляр Сугор]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="235,252">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+
+	</location>
+
+	<location id="228" inner_flag_pos="154,274" inner_manor_pos="154,250">
+		<title><![CDATA[Огненная долина]]></title>
+		
+		<enemy_pos inner_pos="213,366" />
+
+		<object id="monster" inner_pos="100,398">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Крэтс-вожак [3]]]></item>
+			<item><![CDATA[Огненный паук [2]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="153,383">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Антиквар Менахем]]></item>
+		</object>
+		<object id="libra" inner_pos="133,351">
+			<title><![CDATA[Антикварная лавка]]></title>
+			<text><![CDATA[В этой лавке обладатели репутации Искателя реликтов могут приобрести различные редкие артефакты и магические устройства]]></text>
+		</object>
+
+		<object id="farm_floor" inner_pos="118,256">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ирис [30]]]></item>
+		</object>
+
+
+	</location>
+
+</area>
+
+</areas>

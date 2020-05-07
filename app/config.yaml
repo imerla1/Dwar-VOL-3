@@ -1,0 +1,16 @@
+common: # Saerto data yvela Mode-istvis
+  game_domain: dwar.ru
+  respawn: http://w1.dwar.ru/action_run.php?code=RESURRECT&url_success=area.php&url_error=area.php&in[mode_id]=1
+
+farm:
+  instance:
+  resource_list:
+  time_to_pick:
+  instument_put_request: 
+
+fight:
+  instance:
+  bot_list:
+  combo: []
+  drink_life: []
+  

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="40" src="area_40.swf" rect="2607,647,3108,1203">
+	<title><![CDATA[Пещеры трепета]]></title>
+
+	<location id="41" inner_flag_pos="350,435" inner_manor_pos="285,420">
+	<title><![CDATA[Грот Маэттро]]></title>
+	
+	<enemy_pos inner_pos="447,427" />
+	
+		<object id="chel_red" inner_pos="279,427">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Саламандра Эльвердинг]]></item>
+		</object>
+
+		<object id="monster" inner_pos="384,410">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Дугрхарг [5]]]></item>
+			<item><![CDATA[Опытный дугрхарг [6]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="319,489">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ирис [30]]]></item>		
+		</object>
+
+		<object id="farm_fish" inner_pos="300,456">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Панцирный динихтис [180]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="378,371">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Рубин [60]]]></item>
+		</object>
+
+	</location>
+
+
+	<location id="44" inner_flag_pos="227,355" inner_manor_pos="230,385">
+	<title><![CDATA[Заброшенные рудники]]></title>
+
+	<enemy_pos inner_pos="327,358" />
+	
+		<object id="chel_red" inner_pos="179,347">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гном Серафим]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="264,358">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Анемон [60]]]></item>
+			<item><![CDATA[Белладонна [90]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="336,333">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Опытный дугрхарг [6]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="275,318">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Изумруд [60]]]></item>
+		</object>
+
+
+	</location>
+
+
+	<location id="111" inner_flag_pos="226,263" inner_manor_pos="215,220">
+	<title><![CDATA[Логово летучих мышей]]></title>
+
+	<enemy_pos inner_pos="174,322" />
+	
+		<object id="chel_red" inner_pos="248,215">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Вурдалак Голац]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="196,251">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рудокоп Верген]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="295,210">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+			<item><![CDATA[Ведовница [210]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="284,263">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Летучая мышь Атши [6]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="160,262">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+		</object>
+
+
+	</location>
+
+
+	<location id="47" inner_flag_pos="242,98" inner_manor_pos="242,160">
+	<title><![CDATA[Деревня Маэттро]]></title>
+
+	<enemy_pos inner_pos="213,152" />
+	
+		<object id="monster" inner_pos="274,109">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Саблезубый Тигр [7]]]></item>
+			<item><![CDATA[Хромой саблезубый тигр [7]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="170,99">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Эсмерат [150]]]></item>
+			<item><![CDATA[Фиолин [150]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="198,74">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Росица [180]]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="241,64">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Златоперая семга [120]]]></item>
+			<item><![CDATA[Рыба-светлячок [150]]]></item>
+			<item><![CDATA[Крылатка [180]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="220,138">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Колдунья Бругильда]]></item>
+		</object>
+
+		<object id="libra" inner_pos="191,169">
+			<title><![CDATA[Лавка провидца]]></title>
+			<text><![CDATA[Продажа необычных товаров, рецептов, свитков и инструментов для различных профессий. Ремонтная мастерская. Старьевщик.]]></text>
+		</object>
+
+	</location>
+
+	<location id="148" inner_flag_pos="105,155" inner_manor_pos="135,155">
+	<title><![CDATA[Ледяной грот]]></title>
+	
+	<enemy_pos inner_pos="132,243" />
+
+		<object id="farm_fish" inner_pos="82,213">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Златовлас [210]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="96,155">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="85,267">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="123,198">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Хакурт ледянник [4]]]></item>
+			<item><![CDATA[Пещерная мышь Атши [5]]]></item>
+		</object>
+
+	</location>
+
+</area>
+
+</areas>

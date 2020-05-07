@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="153" src="area_153.swf" rect="4384,1859,5054,2400">
+	<title><![CDATA[Земли усопших]]></title>
+	
+	<location id="154" inner_flag_pos="160,366" inner_manor_pos="115,345">
+		<title><![CDATA[Склепы вассалов]]></title>
+		
+		<enemy_pos inner_pos="124,406" />
+
+
+		<object id="star_2" inner_pos="197,380" race="hum">
+			<title><![CDATA[Склеп Умертвия]]></title>
+			<text><![CDATA[Построенный много веков назад мрачный склеп, в одной из тайных зал которого нашло пристанище ужасное Умертвие Фазгрода. Темные коридоры подземной гробницы кишат свирепыми тварями, преданными служителями ставшего нежитью черного колдуна.]]></text>			
+		</object>
+
+		<object id="chel_blue" inner_pos="236,391">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Некромант]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="240,451">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Алтарь тьмы]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="170,420">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="188,337">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+			<item><![CDATA[Анемон [60]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="200,450">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Сапфир [30]]]></item>
+			<item><![CDATA[Рубин [60]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="280,440">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Упырь [5]]]></item>
+			<item><![CDATA[Мертвец [5]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="155" inner_flag_pos="386,373" inner_manor_pos="386,343">
+		<title><![CDATA[Могилы бедняков]]></title>
+		
+		<enemy_pos inner_pos="503,451" />
+
+		<object id="monster" inner_pos="400,440">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Зомби [4]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="340,340">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Крылатка [180]]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="351,437">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Дух Ветра]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="422,472">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Дух гнома]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="432,390">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Обсидиан [30]]]></item>
+			<item><![CDATA[Топаз [60]]]></item>
+			<item><![CDATA[Изумруд [60]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="266,314">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+			<item><![CDATA[Розмарин [30]]]></item>
+		</object>
+
+	</location>
+
+	<location id="156" inner_flag_pos="455,273" inner_manor_pos="475,273">
+		<title><![CDATA[Братское захоронение]]></title>
+		
+		<enemy_pos inner_pos="574,336" />
+
+		<object id="monster" inner_pos="388,217">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Дряхлый скелет [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="576,397">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Фея Леолина]]></item>
+		</object>
+
+		
+		<object id="farm_fish" inner_pos="420,295">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="357,255">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="405,253">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="157" inner_flag_pos="480,90" inner_manor_pos="420,110">
+		<title><![CDATA[Королевская усыпальница]]></title>
+
+		<enemy_pos inner_pos="431,124" />
+
+		<object id="libra" inner_pos="453,176">
+			<title><![CDATA[Склад охотников за нежитью]]></title>
+			<text><![CDATA[Это здание является складом охотников за нежитью, на котором они закупаются необходимыми им снадобьями и артефактами.]]></text>
+		</object>
+
+
+
+		<object id="monster" inner_pos="545,85">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Дряхлый скелет [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="537,114">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="506,133">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="510,79">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="515,182" race="hum">
+			<title><![CDATA[Чертоги короля Магиша]]></title>
+			<text><![CDATA[Проклятое место, обитателем которого уже много веков является падший король Магиш и его миньоны]]></text>			
+		</object>
+
+		<object id="chel_blue" inner_pos="410,159">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Шико]]></item>
+		</object>
+
+
+	</location>
+	
+</area>
+
+</areas>

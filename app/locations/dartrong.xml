@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="7" src="area_7.swf" rect="2744,354,3300,883">
+	<title><![CDATA[Дартронг]]></title>
+	
+	<location id="140" inner_flag_pos="137,187" inner_manor_pos="90,210">
+		<title><![CDATA[Площадь Огня]]></title>
+		
+		<enemy_pos inner_pos="219,98" />
+		
+		<object id="prison" inner_pos="143,131">
+			<title><![CDATA[Темница Дартронга]]></title>
+			<text><![CDATA[В темнице заключены магмары с проклятием «Неволи». Также, за выкуп тут можно снять любое проклятие]]></text>
+		</object>
+		<object id="chel_red" inner_pos="205,170">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мастерица Сойгура]]></item>
+		</object>
+		<object id="chel_red" inner_pos="160,160">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Пасть фортуны]]></item>
+		</object>
+		<object id="monster" inner_pos="360,260">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+		<object id="house" inner_pos="125,220">
+			<title><![CDATA[Регистрационная палата]]></title>
+			<text><![CDATA[Регистрация и оплата налогов на содержание кланов]]></text>
+		</object>
+		
+		<object id="chel_red" inner_pos="125,200" loc_id="143">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Архивариус Вудугри]]></item>
+		</object>
+		
+		<object id="libra" inner_pos="120,167">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В данном магазине продаются ценные вещи для уважаемых магмаров Дартронга, имеющих определенную репутацию в городе, вы также можете починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="house" inner_pos="197,135">
+			<title><![CDATA[Храм бракосочетаний]]></title>
+			<text><![CDATA[В храме бракосочетаний проводятся все свадебные обряды, также там можно приобрести свадебные аксессуары]]></text>
+		</object>
+
+		<object id="house" inner_pos="400,250">
+			<title><![CDATA[Городская ярмарка магмаров]]></title>
+		</object>
+
+		<object id="group_red" inner_pos="400,230" loc_id="725">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Фея Тиндолин]]></item>
+			<item><![CDATA[Весельчак Шеймус]]></item>
+			<item><![CDATA[Скупщик Гвидо]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="197,115" loc_id="244">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Обрядник Рубадду]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="230,90">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Посол людей]]></item>
+		</object>
+		<object id="tower" inner_pos="174,216">
+			<title><![CDATA[Пещера боевых магов]]></title>
+			<text><![CDATA[В этой пещере живут, обучают новичков и совершенствуют свое мастерство боевые маги земли, огня и теней. Также здесь расположился магазин, в котором можно приобрести магические артефакты]]></text>
+		</object>
+
+		<object id="group_red" inner_pos="174,194" loc_id="280">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Маг теней Омбре]]></item>
+			<item><![CDATA[Маг огня Файт]]></item>
+			<item><![CDATA[Маг земли Лэнд]]></item>
+		</object>
+
+	</location>
+	
+	<location id="9" inner_flag_pos="230,430" inner_manor_pos="150,270">
+		<title><![CDATA[Площадь Дартронга]]></title>
+		
+		<enemy_pos inner_pos="293,344" />
+
+		<object id="monster" inner_pos="311,330">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Шальной пес [1]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+
+		<object id="arena" inner_pos="215,360">
+			<title><![CDATA[Арена]]></title>
+			<text><![CDATA[На арене вы можете провести дуэль, групповой или хаотический бой, а также сразиться с тренерами]]></text>
+		</object>
+
+		<object id="libra" inner_pos="260,420">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В магазине вы можете приобрести различные товары, починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="hammer" inner_pos="125,270">
+			<title><![CDATA[Аукцион]]></title>
+			<text><![CDATA[На аукционе вы сможете купить товары других игроков по самым выгодным ценам или выгодно продать любой товар, если он представляет какую-либо ценность в мире Фэо]]></text>
+		</object>
+
+		<object id="bag" inner_pos="210,395">
+			<title><![CDATA[Банк]]></title>
+			<text><![CDATA[Обмен у менялы рубинов и бриллиантов, банковская ячейка для хранения вещей]]></text>			
+		</object>
+
+		<object id="holy" inner_pos="160,311">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+
+		<object id="mail" inner_pos="180,328">
+			<title><![CDATA[Почта]]></title>
+			<text><![CDATA[Почта Дартронга позволяет магмарам пересылать письма вещи и деньги]]></text>			
+		</object>
+
+		<object id="group_red" inner_pos="271,370" loc_id="491">
+			<title><![CDATA[Гильдия мастеров различных профессий]]></title>
+			<item><![CDATA[Ювелир Корундум]]></item>
+			<item><![CDATA[Алхимик Веддун]]></item>
+			<item><![CDATA[Травник Гербиер]]></item>
+			<item><![CDATA[Геолог Тиеррий]]></item>
+		</object>
+
+		<object id="group_red" inner_pos="230,335" loc_id="30">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Тренер Аскерт]]></item>
+			<item><![CDATA[Тренер Бурдвол]]></item>
+			<item><![CDATA[Тренер Ваэрон]]></item>
+			<item><![CDATA[Тренер Курдгард]]></item>
+		</object>
+		<object id="chel_red" inner_pos="210,338" loc_id="14">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Воевода Гидвер]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="241,370">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Старец Веркирий]]></item>
+		</object>
+                <object id="chel_red" inner_pos="250,405">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Скупщик Мухмор]]></item>
+		</object>
+	</location>
+	
+</area>
+
+</areas>

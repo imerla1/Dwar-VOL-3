@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="35" src="area_35.swf" rect="2984,1187,3775,2039">
+	<title><![CDATA[Баллаурский океан]]></title>
+	
+	<location id="36" inner_flag_pos="642,575">
+		<title><![CDATA[Плавание в Вурдалию на корабле Черный Гаар]]></title>
+
+		<enemy_pos inner_pos="299,123" />
+
+		<object id="monster" inner_pos="439,492">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Игуарон [5]]]></item>
+		</object>
+
+	<object id="farm_fish" inner_pos="404,230">
+	        <title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="450,389" race="hum">
+			<title><![CDATA[Грот Гурральдия]]></title>
+			<text><![CDATA[Огромный грот, в темных водах которого нашел свое пристанище гигантский монстр подводного мира - Гурральдий Корр.]]></text>			
+		</object>
+
+
+	</location>
+
+	<location id="37" inner_flag_pos="340,80">
+		<title><![CDATA[Плавание в Виригию на корабле Мрачный Хавр]]></title>
+
+		<enemy_pos inner_pos="656,516" />
+
+		<object id="star_2" inner_pos="559,284" race="mag">
+			<title><![CDATA[Грот Гурральдия]]></title>
+			<text><![CDATA[Огромный грот, в темных водах которого нашел свое пристанище гигантский монстр подводного мира - Гурральдий Корр.]]></text>			
+		</object>
+
+
+		<object id="monster" inner_pos="537,383">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Игуарон [5]]]></item>
+		</object>
+
+          <object id="farm_fish" inner_pos="567,447">	
+		 <title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+
+		</object>
+
+	</location>
+
+	<location id="253" inner_flag_pos="257,184">
+		<title><![CDATA[Плавание на бригантине Лафер]]></title>
+
+		<enemy_pos inner_pos="188,207" />
+
+		<object id="monster" inner_pos="79,207">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Игуарон [5]]]></item>
+		</object>
+
+<object id="farm_fish" inner_pos="118,155">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="254" inner_flag_pos="531,705">
+		<title><![CDATA[Плавание на шхуне Солго]]></title>
+
+		<enemy_pos inner_pos="515,644" />
+
+		<object id="monster" inner_pos="574,649">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Игуарон [5]]]></item>
+		</object>
+
+<object id="farm_fish" inner_pos="453,777">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+
+	</location>
+	
+</area>
+
+
+</areas>

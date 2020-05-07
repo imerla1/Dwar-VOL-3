@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="109" src="area_109.swf" rect="4239,1050,4875,1658">
+	<title><![CDATA[Беронские прерии]]></title>
+	
+	<location id="275" inner_flag_pos="212,332" inner_manor_pos="235,295">
+		<title><![CDATA[Сонная долина]]></title>
+		
+		<enemy_pos inner_pos="182,391" />
+		
+		<object id="farm_floor" inner_pos="139,298">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="270,333">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+		<object id="monster" inner_pos="190,273">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Хакурт бурый [4]]]></item>
+			<item><![CDATA[Опытный беронский тигр [4]]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="175,320">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Эдера]]></item>
+		</object>
+
+	</location>
+	
+	<location id="276" inner_flag_pos="292,405" inner_manor_pos="292,490">
+		<title><![CDATA[Беронские просторы]]></title>
+		
+		<enemy_pos inner_pos="258,489" />
+		
+		<object id="farm_floor" inner_pos="352,465">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="302,445">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Алтарь жизни]]></item>
+		</object>
+		
+		<object id="monster" inner_pos="226,429">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненная паучиха [3]]]></item>
+			<item><![CDATA[Молодой беронский тигр [4]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+		</object>
+	</location>
+	
+	<location id="277" inner_flag_pos="360,225" inner_manor_pos="390,260">
+		<title><![CDATA[Степные воли]]></title>
+		
+		<enemy_pos inner_pos="417,303" />
+		
+		<object id="farm_floor" inner_pos="338,305">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="326,197">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Изумруд [60]]]></item>
+		</object>
+		<object id="monster" inner_pos="295,249">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Молодой беронский тигр [4]]]></item>
+			<item><![CDATA[Скелет орка-завоевателя [5]]]></item>
+		</object>
+		<object id="farm_fish" inner_pos="250,226">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Панцирный динихтис [180]]]></item>
+			<item><![CDATA[Риффа [180]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+	</location>
+	
+	<location id="278" inner_flag_pos="445,335" inner_manor_pos="478,350">
+		<title><![CDATA[Холмы умиротворения]]></title>
+		
+		<enemy_pos inner_pos="525,404" />
+		
+		<object id="farm_floor" inner_pos="531,368">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="488,320">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="558,318">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Магистр Глобиус]]></item>
+		</object>
+		<object id="monster" inner_pos="453,405">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненная паучиха [3]]]></item>
+			<item><![CDATA[Пепельный паук [3]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+		</object>
+	</location>
+	
+	<location id="279" inner_flag_pos="425,175" inner_manor_pos="390,180">
+		<title><![CDATA[Пустырь мертвого часа]]></title>
+
+		<enemy_pos inner_pos="563,203" />
+
+		<object id="tower" inner_pos="402,148">
+			<title><![CDATA[Вертеп Вершителей зла]]></title>
+			<text><![CDATA[Мрачное строение, ставшее приютом для всех злодеев Фэо. Обратившись к Изуверу, здесь можно создать порчельники, а также, найдя общий язык с Файтуриозом , приготовить сильнейшие настойки и призвать в наш мир Буяку. В вертепе расположен Склад контрабанды, содержащий обширный ассортимент злодейских товаров, а также пещера с телепортами, способными в мгновение ока доставить вас во многие точки мира.]]></text>			
+		</object>
+
+<object id="group_blue" inner_pos="419,162" loc_id="364">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Изувер]]></item>
+			<item><![CDATA[Рабыня Юминия]]></item>
+		</object>
+
+
+		<object id="monster" inner_pos="494,170">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Огненный Крофдор [10]]]></item>
+			<item><![CDATA[Эльдив-воин [10]]]></item>
+			<item><![CDATA[Темный Крофдор [11]]]></item>
+			<item><![CDATA[Эльдивианка-воительница [11]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="519,231">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+			<item><![CDATA[Целестин [180]]]></item>
+			<item><![CDATA[Верделит [210]]]></item>
+			<item><![CDATA[Ледянник [210]]]></item>
+			<item><![CDATA[Темный железняк [210]]]></item>
+			<item><![CDATA[Корганит [240]]]></item>
+			<item><![CDATA[Армедьянк [240]]]></item>
+			<item><![CDATA[Смараглис [240]]]></item>
+			<item><![CDATA[Эльдорилловый кварц [240]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="451,211">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+			<item><![CDATA[Соломенник [210]]]></item>
+			<item><![CDATA[Нарцисс [210]]]></item>
+			<item><![CDATA[Аракша дурманная [240]]]></item>
+			<item><![CDATA[Эльтский Гиамбир [240]]]></item>
+			<item><![CDATA[Ирвис розоволистный [240]]]></item>
+			<item><![CDATA[Полевой яркоцвет [240]]]></item>
+		</object>
+	</location>
+	
+</area>
+
+
+</areas>

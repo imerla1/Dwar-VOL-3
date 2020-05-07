@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="305" src="area_305.swf" rect="4612,549,5067,1202">
+	<title><![CDATA[ГрандФорт]]></title>
+
+	<location id="306" inner_flag_pos="286,244" inner_manor_pos="330,244">
+		<title><![CDATA[Пригород ГрандФорта]]></title>
+	
+		<enemy_pos inner_pos="369,249" />
+		
+		<object id="farm_fish" inner_pos="383,235">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Синежабрый хабус [240]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="407,264">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Вкусноцвет [120]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="262,272">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Огненный сердолик [120]]]></item>
+
+		</object>
+
+		<object id="monster" inner_pos="336,188">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Изгой Каменного лотоса [5]]]></item>
+			<item><![CDATA[Ренегат Каменного лотоса [6]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="372,306">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Демонолог И-Види]]></item>
+		</object>
+
+		<object id="star_2" inner_pos="291,192" race="hum">
+			<title><![CDATA[Казематы Бальтазара]]></title>
+			<text><![CDATA[Дом, ставший темницей для Бальтазара - демона, вызванного в наш мир из-за ошибки демонолога]]></text>			
+		</object>
+
+	</location>
+	
+	<location id="307" inner_flag_pos="242,144" inner_manor_pos="130,120">
+		<title><![CDATA[Луанское побережье]]></title>
+		
+		<enemy_pos inner_pos="157,124" />
+
+		<object id="farm_fish" inner_pos="128,63">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Лазурный лосось [120]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="305,96">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="205,157">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="245,48">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Ловкая фицилия [4]]]></item>
+			<item><![CDATA[Кроган [4]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="170,110">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Кузнец Ставрос]]></item>
+		</object>
+
+		<object id="holy" inner_pos="184,74">
+			<title><![CDATA[Обелиск]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть при помощи этого обелиска]]></text>			
+		</object>
+
+		<object id="deep" inner_pos="224,89">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает на Переправу Грифона]]></text>
+			<linkage area_id="305" location_id="312" />
+		</object>
+
+	</location>
+	
+	<location id="308" inner_flag_pos="138,247" inner_manor_pos="178,267">
+		<title><![CDATA[Грандфортский порт]]></title>
+		
+		<enemy_pos inner_pos="97,257" />
+
+		<object id="farm_fish" inner_pos="47,202">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+		
+					<object id="deep" inner_pos="175, 225">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Лазурную лагуну при наличии амулета «Ловец времени»]]></text>
+			<linkage area_id="640" location_id="643" />
+			</object>
+
+		<object id="farm_floor" inner_pos="83,155">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="216,254">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="205,206">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Фицилия [3]]]></item>
+			<item><![CDATA[Кроган [4]]]></item>
+		</object>
+
+
+		<object id="chel_blue" inner_pos="101,286">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Караульный Рехут]]></item>
+		</object>
+
+
+	</location>
+	
+	<location id="309" inner_flag_pos="215,408">
+		<title><![CDATA[Замок ГрандФорт]]></title>
+		
+		<enemy_pos inner_pos="330,416" />
+
+		<object id="chel_blue" inner_pos="214,358">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гельдерион]]></item>
+		</object>
+
+		<object id="holy" inner_pos="242,381">
+			<title><![CDATA[Алтарь замка]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть у этого алтаря.]]></text>			
+		</object>
+
+
+		<object id="libra" inner_pos="179,423">
+			<title><![CDATA[Магазин замка]]></title>
+			<text><![CDATA[В этом магазине продаются как обычные товары, так и необыкновенные вещи, доступные только владеющему замком клану]]></text>
+		</object>
+
+		<object id="farm_fish" inner_pos="156,360">
+			<title><![CDATA[Рыба в подземелье замка]]></title>
+			<item><![CDATA[Сумрачная Нидла [120]]]></item>
+	       </object>
+		<object id="farm_floor" inner_pos="263,414">
+			<title><![CDATA[Растения в подземелье замка]]></title>
+			<item><![CDATA[Лигрил [120]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="288,367">
+			<title><![CDATA[Драгоценные камни в подземелье замка]]></title>
+			<item><![CDATA[Веридий [120]]]></item>
+		</object>
+
+	</location>
+	
+	<location id="312" inner_flag_pos="175,534" inner_manor_pos="220,525">
+		<title><![CDATA[Переправа Грифона]]></title>
+	
+		<enemy_pos inner_pos="287,600" />
+	
+		<object id="farm_fish" inner_pos="96,482">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Лазурный лосось [120]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+			<item><![CDATA[Крапчатый шаробрюх [210]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="124,558">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Огненный сердолик [120]]]></item>
+			<item><![CDATA[Фиолин [150]]]></item>
+			<item><![CDATA[Драконова кровь [150]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="296,543">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Вкусноцвет [120]]]></item>
+			<item><![CDATA[Повей-трава [150]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+			<item><![CDATA[Росица [180]]]></item>
+		</object>
+
+
+		<object id="monster" inner_pos="218,574">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Горгулья [8]]]></item>
+			<item><![CDATA[Свирепая горгулья [9]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="107,525">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Погонщик Луран]]></item>
+		</object>
+
+		<object id="flight" inner_pos="69,523">
+			<title><![CDATA[Погонщик Луран]]></title>
+			<text><![CDATA[Здесь вы можете найти погонщика Лурана. За скромную плату он поможет добраться до Грандфортского порта, находящегося за замком]]></text>
+			<linkage area_id="305" location_id="307" />
+		</object>
+
+	</location>
+</area>
+
+</areas>

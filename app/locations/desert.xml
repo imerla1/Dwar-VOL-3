@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+<area id="1145" src="area_1145.swf" rect="396,1292,1344,2820"> 
+	<title><![CDATA[Пески Рахдарии]]></title>
+
+	<location id="1146" inner_flag_pos="450,1200">
+		<title><![CDATA[Лагерь Сарпена]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+
+		<object id="chel_blue" inner_pos="455,1145">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Исследователь Сарпен]]></item>
+		</object>
+        	<object id="monster" inner_pos="550,1150">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Юный Грабон [18]]]></item>
+			<item><![CDATA[Ненасытный Грабон [20]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="400,1120">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Иглокус [480]]]></item>
+			<item><![CDATA[Малек Звень-рыбы [480]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="480,1260">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Триадин [480]]]></item>
+			<item><![CDATA[Беозарик [480]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="360,1220">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Шиита кустарная [480]]]></item>
+			<item><![CDATA[Иволис лекарственный [480]]]></item>
+		</object>
+
+	</location>
+
+	<location id="1147" inner_flag_pos="235,900">
+		<title><![CDATA[Дюнное море]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+
+		<object id="chel_blue" inner_pos="250,850">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Нефсехет Безликий]]></item>
+		</object>
+        	<object id="monster" inner_pos="215,950">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Воин Рахдарии [18]]]></item>
+			<item><![CDATA[Сотник Рахдарии [19]]]></item>
+			<item><![CDATA[Императорская альканора [21]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="340,870">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Придонный гребневик [480]]]></item>
+			<item><![CDATA[Кименья тихоходная [510]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="320,780">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Иантарий [480]]]></item>
+			<item><![CDATA[Горная чернь [510]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="200,700">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Суховейка горная	[480]]]></item>
+			<item><![CDATA[Шимора чужедальная [510]]]></item>
+		</object>
+
+	</location>
+
+	<location id="1148" inner_flag_pos="590,560">
+		<title><![CDATA[Руины Хор-Абселона]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+
+        	<object id="monster" inner_pos="540,660">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Стозубый Грабон [19]]]></item>
+			<item><![CDATA[Песчаная альканора [19]]]></item>
+			<item><![CDATA[Бешеная альканора [20]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="680,640">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Речной снуль [510]]]></item>
+			<item><![CDATA[Морской удонник [510]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="680,495">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Хразолист [510]]]></item>
+			<item><![CDATA[Гипнос сердцевинный [510]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="640,760">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Медовая мирта [510]]]></item>
+			<item><![CDATA[Садовый вирлен [510]]]></item>
+		</object>
+
+	</location>
+
+	<location id="1149" inner_flag_pos="400,380">
+		<title><![CDATA[Бескрайние барханы]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+
+		<object id="chel_red" inner_pos="410,420">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Нефсехет Безликий]]></item>
+		</object>
+        	<object id="monster" inner_pos="380,450">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Воин Рахдарии [18]]]></item>
+			<item><![CDATA[Сотник Рахдарии [19]]]></item>
+			<item><![CDATA[Императорская альканора [21]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="290,480">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Придонный гребневик [480]]]></item>
+			<item><![CDATA[Кименья тихоходная [510]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="430,350">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Иантарий [480]]]></item>
+			<item><![CDATA[Горная чернь [510]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="330,380">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Суховейка горная [480]]]></item>
+			<item><![CDATA[Шимора чужедальная [510]]]></item>
+		</object>
+
+	</location>
+
+	<location id="1150" inner_flag_pos="470,220">
+		<title><![CDATA[Лагерь Пеланира]]></title>
+		
+		<enemy_pos inner_pos="1133,324" />
+
+		<object id="chel_red" inner_pos="553,206">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Исследователь Пеланир]]></item>
+		</object>
+        	<object id="monster" inner_pos="600,230">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Юный Грабон [18]]]></item>
+			<item><![CDATA[Ненасытный Грабон [20]]]></item>
+       		</object>
+
+		<object id="farm_fish" inner_pos="700,300">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Иглокус [480]]]></item>
+			<item><![CDATA[Малек Звень-рыбы [480]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="503,176">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Триадин [480]]]></item>
+			<item><![CDATA[Беозарик [480]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="450,90">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Шиита кустарная [480]]]></item>
+			<item><![CDATA[Иволис лекарственный [480]]]></item>
+		</object>
+
+	</location>
+</area>
+
+</areas>

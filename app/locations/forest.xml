@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="38" src="area_38.swf" rect="3624,1923,4482,2325">
+	<title><![CDATA[Шуарский лес]]></title>
+	
+	<location id="39" inner_flag_pos="285,125" inner_manor_pos="305,145">
+		<title><![CDATA[Опушка света]]></title>
+		
+		<enemy_pos inner_pos="362,146" />
+
+		<object id="farm_floor" inner_pos="263,156">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ирис [30]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="177,103">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Рубин [60]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="235,76">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мудрец Панеоник]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="350,160">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Егерь Васлав]]></item>
+		</object>
+
+		<object id="monster" inner_pos="235,120">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Медведь Пхадд [5]]]></item>
+			<item><![CDATA[Старый медведь Пхадд [6]]]></item>
+		</object>
+
+
+	</location>
+	<location id="42" inner_flag_pos="315,245" inner_manor_pos="325,280">
+		<title><![CDATA[Дикая пуща]]></title>
+		
+		<enemy_pos inner_pos="355,340" />
+
+		<object id="star_2" inner_pos="285,310" race="hum">
+			<title><![CDATA[Зачарованный лес]]></title>
+			<text><![CDATA[Не стоит входить под высокие своды Зачарованного леса безоружным – с виду спокойный и тихий уголок природы может обернуться пристанищем ужасных чудовищ.]]></text>			
+		</object>
+
+		<object id="chel_blue" inner_pos="369,285">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ведьма Гредея]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="248,232">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Леший Фрог]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="337,217">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Анемон [60]]]></item>
+			<item><![CDATA[Вкусноцвет [120]]]></item>
+			<item><![CDATA[Спелый Гиамбир [180]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="384,236">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Изумруд [60]]]></item>
+			<item><![CDATA[Огненный сердолик [120]]]></item>
+			<item><![CDATA[Эльдориллова соль [180]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="375,322">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Старый медведь Пхадд [6]]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="390,180">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Лазурный лосось [120]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+			<item><![CDATA[Крапчатый шаробрюх [210]]]></item>
+		</object>
+
+
+	</location>
+	<location id="45" inner_flag_pos="460,226" inner_manor_pos="600,246">
+		<title><![CDATA[Водопад Лумирья]]></title>
+
+		<enemy_pos inner_pos="624,258" />
+		
+		<object id="farm_floor" inner_pos="440,289">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+			<item><![CDATA[Белладонна [90]]]></item>
+			<item><![CDATA[Гиамбир [120]]]></item>
+			<item><![CDATA[Ветрица [180]]]></item>
+			<item><![CDATA[Соломенник [210]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="590,320">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Эльдорилл [120]]]></item>
+			<item><![CDATA[Темный железняк [210]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="508,331">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Кодраг [6]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="574,283">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Русалка Сорена]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="590,200">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Знахарь Спорукс]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="441,323">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Заря]]></item>
+		</object>
+
+	</location>
+
+	<location id="46" inner_flag_pos="731,225" inner_manor_pos="771,225">
+		<title><![CDATA[Кряж Кайар]]></title>
+
+		<enemy_pos inner_pos="808,292" />
+		
+		<object id="farm_rock" inner_pos="735,260">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Алмаз [90]]]></item>
+			<item><![CDATA[Флюорит [180]]]></item>
+			<item><![CDATA[Ледянник [210]]]></item>
+			<item><![CDATA[Верделит [210]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="735,190">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+			<item><![CDATA[Хоста [180]]]></item>
+			<item><![CDATA[Леферт [210]]]></item>
+			<item><![CDATA[Нарцисс [210]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="685,224">
+			<title><![CDATA[Избушка чародея]]></title>
+			<text><![CDATA[Продажа необычных товаров, рецептов, свитков и инструментов для различных профессий. Ремонтная мастерская. Старьевщик.]]></text>
+		</object>
+
+		<object id="chel_blue" inner_pos="685,173">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Рыбак Натан]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="685,289">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Волхв Оден]]></item>
+		</object>
+
+		<object id="monster" inner_pos="725,300">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Волк Валдагор [7]]]></item>
+			<item><![CDATA[Молодой волк Валдагор [7]]]></item>
+		</object>
+
+	</location>
+
+	<location id="147" inner_flag_pos="129,178" inner_manor_pos="147,195">
+		<title><![CDATA[Заросли жасмина]]></title>
+		
+		<enemy_pos inner_pos="99,199" />
+
+		<object id="farm_fish" inner_pos="102,203">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+		    <item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+			<item><![CDATA[Панцирный динихтис [180]]]></item>
+        </object>
+		
+		<object id="farm_rock" inner_pos="219,181">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="150,222">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Лотос [60]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="180,200">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Богатырь Герасим]]></item>
+		</object>
+
+		<object id="monster" inner_pos="105,133">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Древень [4]]]></item>
+			<item><![CDATA[Лесной Игуарон [5]]]></item>
+		</object>
+		<object id="star_2" inner_pos="140,168" race="hum">
+			<title><![CDATA[Эльфийское святилище]]></title>
+			<text><![CDATA[Вдали от дорог и многочисленных селений, в кольце отвесных гор сокрыто от любопытных взоров древнее святилище темных эльфов. Превратившиеся в нежить темные эльфы, хранители потаенного места, под предводительством могущественной королевы Андорвэн, не допустят чужаков в свои владения.]]></text>			
+		</object>
+
+	</location>
+	
+</area>
+
+</areas>

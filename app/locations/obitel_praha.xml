@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="158" src="area_158.swf" rect="2942,257,3791,580">
+	<title><![CDATA[Обитель праха]]></title>
+	
+	<location id="159" inner_flag_pos="196,90" inner_manor_pos="175,120">
+		<title><![CDATA[Клановые захоронения]]></title>
+		
+		<enemy_pos inner_pos="122,111" />
+
+		<object id="star_2" inner_pos="170,122" race="mag">
+			<title><![CDATA[Склеп Умертвия]]></title>
+			<text><![CDATA[Построенный много веков назад мрачный склеп, в одной из тайных зал которого нашло пристанище ужасное Умертвие Фазгрода. Темные коридоры подземной гробницы кишат свирепыми тварями, преданными служителями ставшего нежитью черного колдуна.]]></text>			
+		</object>
+
+		<object id="monster" inner_pos="237,90">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Дряхлый скелет [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="140,44">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="195,70">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="120,124">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+
+
+		<object id="chel_red" inner_pos="205,134">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Оккультист Коэшу]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="160" inner_flag_pos="305,162" inner_manor_pos="390,100">
+		<title><![CDATA[Скорбный яр]]></title>
+
+		<enemy_pos inner_pos="408,149" />
+
+		<object id="chel_red" inner_pos="277,120">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Дух гнома]]></item>
+		</object>
+
+		<object id="monster" inner_pos="370,164">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Дряхлый скелет [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="267,193">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="418,107">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="304,200">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+			<item><![CDATA[Нарцисс [210]]]></item>
+		</object>
+
+	</location>
+
+	<location id="161" inner_flag_pos="536,176" inner_manor_pos="593,211">
+		<title><![CDATA[Усыпальница монархов]]></title>
+
+		<enemy_pos inner_pos="620,195" />
+		
+		<object id="monster" inner_pos="593,136">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Зомби [4]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="525,211">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+			<item><![CDATA[Крылатка [180]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="536,137">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Обсидиан [30]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="475,210">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+			<item><![CDATA[Росица [180]]]></item>
+		</object>
+		<object id="chel_red" inner_pos="465,146">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Тень]]></item>
+		</object>
+
+
+		<object id="star_2" inner_pos="493,156" race="mag">
+			<title><![CDATA[Чертоги короля Магиша]]></title>
+			<text><![CDATA[Проклятое место, обитателем которого уже много веков является падший король Магиш и его миньоны]]></text>			
+		</object>
+
+		<object id="chel_red" inner_pos="417,191">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Шико]]></item>
+		</object>
+
+		<object id="libra" inner_pos="388,222">
+			<title><![CDATA[Склад охотников за нежитью]]></title>
+			<text><![CDATA[Это здание является складом охотников за нежитью, на котором они закупаются необходимыми им снадобьями и артефактами]]></text>
+		</object>
+
+
+	</location>
+
+	<location id="162" inner_flag_pos="691,208" inner_manor_pos="681,172">
+		<title><![CDATA[Заброшенные могилы]]></title>
+		
+		<enemy_pos inner_pos="775,221" />
+
+		<object id="farm_fish" inner_pos="715,182">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Хрустальный осетр [150]]]></item>
+			<item><![CDATA[Нерестовый хабус [180]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="750,242">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Упырь [5]]]></item>
+			<item><![CDATA[Мертвец [5]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="717,229">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Сапфир [30]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="685,253">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Мандрагора [60]]]></item>
+		</object>
+		<object id="chel_red" inner_pos="680,210">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Алтарь тьмы]]></item>
+		</object>
+
+	</location>
+	
+</area>
+
+</areas>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+ <!-- 462 479-->
+<area id="500" src="area_500.swf" rect="4025,596,4715,1350"> 
+	<title><![CDATA[Эльдивское море]]></title>
+
+	<location id="508" inner_flag_pos="215,525">
+		<title><![CDATA[Темные глубины]]></title>
+		
+		<enemy_pos inner_pos="278,650" />
+        
+        <object id="monster" inner_pos="250,520">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гребенчатый геланф [7]]]></item>
+			<item><![CDATA[Глубинный геланф [7]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="260,570">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Рыба-светлячок [150]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+	</location>
+    
+    <location id="509" inner_flag_pos="515,460">
+		<title><![CDATA[Синяя бездна]]></title>
+		
+		<enemy_pos inner_pos="384,571" />
+        
+        <object id="monster" inner_pos="450,500">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гребенчатый геланф [7]]]></item>
+			<item><![CDATA[Глубинный геланф [7]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="430,580">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Рыба-светлячок [150]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+		
+		<object id="deep" inner_pos="302,610">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Ледовитое море]]></text>
+			<linkage area_id="501" location_id="506" />
+		</object>
+	</location>
+    
+    <location id="510" inner_flag_pos="145,400">
+		<title><![CDATA[Залив страха]]></title>
+		
+		<enemy_pos inner_pos="187,321" />
+        
+        <object id="monster" inner_pos="100,450">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Геланф [6]]]></item>
+            <item><![CDATA[Гребенчатый геланф [7]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="120,470">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Крылатка [180]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+		</object>
+	</location>
+    
+	<location id="511" inner_flag_pos="585,250">
+		<title><![CDATA[Грандфортский пролив]]></title>
+		
+		<enemy_pos inner_pos="607,373" />
+        
+        <object id="monster" inner_pos="550,200">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Геланф [6]]]></item>
+            <item><![CDATA[Гребенчатый геланф [7]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="570,170">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Крылатка [180]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+		</object>
+	</location>
+</area>
+
+</areas>

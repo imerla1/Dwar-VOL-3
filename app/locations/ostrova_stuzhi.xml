@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+ <!-- 462 479-->
+<area id="499" src="area_499.swf" rect="1327,3188,2097,3604"> 
+	<title><![CDATA[Острова вечной стужи]]></title>
+
+	<location id="502" inner_flag_pos="545,135">
+		<title><![CDATA[Ледяной хребет]]></title>
+		
+		<enemy_pos inner_pos="507,249" />
+		
+		<object id="holy" inner_pos="433,125">
+			<title><![CDATA[Обелиск]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть при помощи этого обелиска]]></text>			
+		</object>
+        
+        <object id="farm_rock" inner_pos="450,155">
+			<title><![CDATA[Ресурсы]]></title>
+			<item><![CDATA[Сугроб [0]]]></item>
+			<item><![CDATA[Кахолонг [180]]]></item>
+		</object>
+		
+        <object id="chel_red" inner_pos="550,165">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Вьюжная хватка]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="550,105">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Риффа [180]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+        
+        <object id="monster" inner_pos="500,135">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Йети-добытчик Ханту [8]]]></item>
+            <item><![CDATA[Йети-лазутчик Юкари [8]]]></item>
+            <item><![CDATA[Белый медведь [8]]]></item>
+		</object>
+	</location>
+
+	<location id="503" inner_flag_pos="235,125">
+		<title><![CDATA[Берег снежного эха]]></title>
+		
+		<enemy_pos inner_pos="379,111" />
+        
+        <object id="farm_rock" inner_pos="325,150">
+			<title><![CDATA[Ресурсы]]></title>
+			<item><![CDATA[Сугроб [0]]]></item>
+			<item><![CDATA[Кахолонг [180]]]></item>
+		</object>
+        <object id="chel_blue" inner_pos="250,150">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Вестница духов]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="200,130">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Риффа [180]]]></item>
+			<item><![CDATA[Пузырник [210]]]></item>
+		</object>
+        
+        <object id="monster" inner_pos="275,125">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Йети-добытчик Юкари [8]]]></item>
+            <item><![CDATA[Йети-лазутчик Ханту [8]]]></item>
+            <item><![CDATA[Белый медведь [8]]]></item>
+		</object>
+	</location>
+
+	<location id="504" inner_flag_pos="230,275">
+		<title><![CDATA[Блуждающий остров]]></title>
+		
+		<enemy_pos inner_pos="151,258" />
+		
+		<object id="chel_gray" inner_pos="175,235">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[шаман Туйгун]]></item>
+		</object>
+        
+        <object id="farm_rock" inner_pos="150,260">
+			<title><![CDATA[Ресурсы]]></title>
+			<item><![CDATA[Сугроб [0]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="140,205">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+		</object>
+        
+        <object id="monster" inner_pos="210,250">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Йети-охотник Юкари [9]]]></item>
+            <item><![CDATA[Йети-вредитель Ханту [9]]]></item>
+            <item><![CDATA[Дикий ледяной медведь [9]]]></item>
+		</object>
+	</location>
+	
+	<location id="505" inner_flag_pos="580,275">
+		<title><![CDATA[Пристань айсбергов]]></title>
+		
+		<enemy_pos inner_pos="636,234" />
+        
+        <object id="farm_rock" inner_pos="520,245">
+			<title><![CDATA[Ресурсы]]></title>
+			<item><![CDATA[Сугроб [0]]]></item>
+		</object>
+		
+		<object id="farm_fish" inner_pos="660,330">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Като [150]]]></item>
+			<item><![CDATA[Удильщик [210]]]></item>
+		</object>
+        
+        <object id="monster" inner_pos="630,280">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Йети-охотник Ханту [9]]]></item>
+            <item><![CDATA[Йети-вредитель Юкари [9]]]></item>
+            <item><![CDATA[Дикий ледяной медведь [9]]]></item>
+		</object>
+	</location>	
+</area>
+
+</areas>

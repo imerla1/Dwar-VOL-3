@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="100" src="area_100.swf" rect="3697,1476,4382,1990">
+	<title><![CDATA[Тихая степь]]></title>
+	
+	<location id="101" inner_flag_pos="520,395" inner_manor_pos="490,380">
+		<title><![CDATA[Окраина тихой степи]]></title>
+
+		<enemy_pos inner_pos="609,433" />
+		
+		<object id="chel_blue" inner_pos="478,430">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Староста Чурай]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="520,353">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="610,400">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="576,381">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Зигред [2]]]></item>
+			<item><![CDATA[Зигред-воин [3]]]></item>
+			<item><![CDATA[Пурпурный зигред [4]]]></item>
+			<item><![CDATA[Морок отряда «Возмездие» [15]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="119" inner_flag_pos="360,365" inner_manor_pos="360,400">
+		<title><![CDATA[Заросли чертополоха]]></title>
+
+		<enemy_pos inner_pos="317,348" />
+		
+		<object id="farm_floor" inner_pos="310,305">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Чертополох [0]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="310,413">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+		<object id="group_blue" inner_pos="267,388">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ворожея Блодияра]]></item>
+			<item><![CDATA[Кари]]></item>
+		</object>
+
+		<object id="monster" inner_pos="420,342">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Неистовый пес [3]]]></item>
+			<item><![CDATA[Зигред-воин [3]]]></item>
+			<item><![CDATA[Пурпурный зигред [4]]]></item>
+			<item><![CDATA[Морок отряда «Возмездие» [15]]]></item>
+		</object>
+
+	</location>
+
+	<location id="102" inner_flag_pos="390,207" inner_manor_pos="360,260">
+		<title><![CDATA[Ветряные мельницы]]></title>
+		
+		<enemy_pos inner_pos="476,280" />
+
+		<object id="chel_blue" inner_pos="428,291">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Крестьянин Ихван]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="428,253">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мельник Ферапонт]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="328,255">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Тысячелистник [30]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="460,294">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="310,237">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гигантский зигред [4]]]></item>
+			<item><![CDATA[Пурпурный зигред [4]]]></item>
+			<item><![CDATA[Морок отряда «Возмездие» [15]]]></item>
+		</object>
+	</location>
+
+
+	<location id="124" inner_flag_pos="166,255" inner_manor_pos="175,285">
+		<title><![CDATA[Мертвый залив]]></title>
+		
+		<enemy_pos inner_pos="94,237" />
+
+		<object id="farm_fish" inner_pos="90,180">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+			<item><![CDATA[Крылатка [180]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="200,307">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="60,200">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Утопленница]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="196,211">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Сапфир [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="230,240">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Неистовый пес [3]]]></item>
+			<item><![CDATA[Зигред-воин [3]]]></item>
+			<item><![CDATA[Пурпурный зигред [4]]]></item>
+			<item><![CDATA[Морок отряда «Возмездие» [15]]]></item>
+		</object>
+
+
+	</location>
+
+	<location id="127" inner_flag_pos="250,132" inner_manor_pos="270,132">
+		<title><![CDATA[Степные вехи]]></title>
+		
+		<enemy_pos inner_pos="326,179" />
+
+		<object id="star_2" inner_pos="216,103" race="hum" >
+			<title><![CDATA[Улей Зигредов]]></title>
+			<text><![CDATA[Зловещее логово Зигредов, где в кромешной тьме обитает ужасная Харцида, наводящая ужас на жителей окрестных деревень.]]></text>			
+		</object>
+
+		<object id="deep" inner_pos="167,87">
+			<title><![CDATA[Перемещение к Храму воды, доступное обладателям амулета «Тайна глубин»]]></title>
+		</object>		
+		
+		<object id="libra" inner_pos="202,141">
+			<title><![CDATA[Магазин наемников]]></title>
+			<text><![CDATA[В этом магазине наемники закупают необходимые им товары и оружие.]]></text>
+		</object>
+
+		<object id="chel_blue" inner_pos="313,136">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Фанатик Агоний]]></item>
+		</object>
+		<object id="chel_blue" inner_pos="263,174">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ускользающий Шу]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="255,90">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Ирис [30]]]></item>
+		</object>
+		
+		<object id="farm_rock" inner_pos="216,70">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Топаз [60]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="158,130">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Гигантский зигред [4]]]></item>
+			<item><![CDATA[Кровавый зигред [5]]]></item>
+			<item><![CDATA[Пурпурный зигред [4]]]></item>
+			<item><![CDATA[Морок отряда «Возмездие» [15]]]></item>
+		</object>
+
+	</location>
+</area>
+
+</areas>

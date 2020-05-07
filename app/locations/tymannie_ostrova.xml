@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="640" src="area_640.swf" rect="1550,2215,2570,3165"> 
+	<title><![CDATA[Туманные острова]]></title>
+
+	<location id="641" inner_flag_pos="450,150">
+		<title><![CDATA[Тихая бухта]]></title>
+		
+		<enemy_pos inner_pos="507,249" />
+
+		<object id="farm_fish" inner_pos="420,250">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Кольчатый жабрень [240]]]></item>
+			<item><![CDATA[Златеница марийская [240]]]></item>
+			<item><![CDATA[Трехполосная фиусса [240]]]></item>
+			<item><![CDATA[Рыба-шутиха [270]]]></item>
+			<item><![CDATA[Скрубус [270]]]></item>
+			<item><![CDATA[Плотоядная Шу [270]]]></item>
+		</object>
+		<object id="farm_floor" inner_pos="460,170">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Аракша дурманная [240]]]></item>
+			<item><![CDATA[Ирвис розоволистный [240]]]></item>
+			<item><![CDATA[Полевой яркоцвет [240]]]></item>
+			<item><![CDATA[Исхандрия пламенеющая [270]]]></item>
+			<item><![CDATA[Техра многоцветная [270]]]></item>
+			<item><![CDATA[Цепторис сорный [270]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="380,170">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Корганит [240]]]></item>
+			<item><![CDATA[Армедьянк [240]]]></item>
+			<item><![CDATA[Смараглис [240]]]></item>
+			<item><![CDATA[Рутиан [270]]]></item>
+			<item><![CDATA[Кариатид [270]]]></item>
+			<item><![CDATA[Горный лагр [270]]]></item>
+		</object>
+
+        
+         <object id="monster" inner_pos="420,150">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Кадхас [11]]]></item>
+            <item><![CDATA[Сколопендра [12]]]></item>
+         </object>
+		 
+		 <object id="chel_red" inner_pos="250,220">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Подмастерье Кендрик]]></item>
+		</object>
+		 
+		 <object id="chel_red" inner_pos="480,150">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Озерный отшельник]]></item>
+		</object>
+		 
+	<object id="deep" inner_pos="360, 155">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Пристань страха при наличии амулета «Ловец времени»]]></text>
+			<linkage area_id="301" location_id="304" />
+			</object>
+			
+	</location>
+
+	<location id="642" inner_flag_pos="135,370">
+		<title><![CDATA[Берег сколопендры]]></title>
+		
+		<enemy_pos inner_pos="285,487" />
+
+		<object id="farm_fish" inner_pos="235,370">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Дискус [300]]]></item>
+			<item><![CDATA[Тепловодный нарлин [300]]]></item>
+			<item><![CDATA[Чиаппа брюхоногая [300]]]></item>
+		</object>
+		<object id="farm_floor" inner_pos="335,370">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Синевита ложная [300]]]></item>
+			<item><![CDATA[Ахайа-губительница [300]]]></item>
+			<item><![CDATA[Чайный желтолиц [300]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="125,420">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Сталактис [300]]]></item>
+			<item><![CDATA[Диралин [300]]]></item>
+			<item><![CDATA[Сумерит [300]]]></item>
+		</object>
+        
+        <object id="monster" inner_pos="130,345">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Жемчужная сколопендра [13]]]></item>
+            <item><![CDATA[Дайгон [14]]]></item>
+         </object>
+	</location>
+
+	<location id="643" inner_flag_pos="680,235">
+		<title><![CDATA[Лазурная лагуна]]></title>
+		
+		<enemy_pos inner_pos="811,144" />
+
+		<object id="farm_fish" inner_pos="850,220">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Кольчатый жабрень [240]]]></item>
+			<item><![CDATA[Златеница марийская [240]]]></item>
+			<item><![CDATA[Трехполосная фиусса [240]]]></item>
+			<item><![CDATA[Рыба-шутиха [270]]]></item>
+			<item><![CDATA[Скрубус [270]]]></item>
+			<item><![CDATA[Плотоядная Шу [270]]]></item>
+		</object>
+		<object id="farm_floor" inner_pos="680,120">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Аракша дурманная [240]]]></item>
+			<item><![CDATA[Ирвис розоволистный [240]]]></item>
+			<item><![CDATA[Полевой яркоцвет [240]]]></item>
+			<item><![CDATA[Исхандрия пламенеющая [270]]]></item>
+			<item><![CDATA[Техра многоцветная [270]]]></item>
+			<item><![CDATA[Цепторис сорный [270]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="730,160">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Корганит [240]]]></item>
+			<item><![CDATA[Армедьянк [240]]]></item>
+			<item><![CDATA[Смараглис [240]]]></item>
+			<item><![CDATA[Рутиан [270]]]></item>
+			<item><![CDATA[Кариатид [270]]]></item>
+			<item><![CDATA[Горный лагр [270]]]></item>
+		</object>
+        
+		<object id="monster" inner_pos="650,220">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Кадхас [11]]]></item>
+            <item><![CDATA[Сколопендра [12]]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="853,328">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Подмастерье Дзигори]]></item>
+		</object>
+		
+		<object id="chel_blue" inner_pos="923,258">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Лесной отшельник]]></item>
+		</object>
+		
+	<object id="deep" inner_pos="883, 315">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Грандфортский порт при наличии амулета «Ловец времени»]]></text>
+			<linkage area_id="305" location_id="308" />
+			</object>
+	</location>
+	
+	<location id="644" inner_flag_pos="510,420">
+		<title><![CDATA[Дайгоновы острова]]></title>
+		
+		<enemy_pos inner_pos="606,395" />
+
+		<object id="farm_fish" inner_pos="610,420">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Дискус [300]]]></item>
+			<item><![CDATA[Тепловодный нарлин [300]]]></item>
+			<item><![CDATA[Чиаппа брюхоногая [300]]]></item>
+		</object>
+		<object id="farm_floor" inner_pos="710,420">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Синевита ложная [300]]]></item>
+			<item><![CDATA[Ахайа-губительница [300]]]></item>
+			<item><![CDATA[Чайный желтолиц [300]]]></item>
+		</object>
+		<object id="farm_rock" inner_pos="510,340">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Сталактис [300]]]></item>
+			<item><![CDATA[Диралин [300]]]></item>
+			<item><![CDATA[Сумерит [300]]]></item>
+		</object>
+		
+		<object id="chel_gray" inner_pos="480,400">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мудрый Татли]]></item>
+		</object>
+        
+		<object id="monster" inner_pos="510,380">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Жемчужная сколопендра [13]]]></item>
+            <item><![CDATA[Дайгон [14]]]></item>
+		</object>
+	</location>	
+	
+	<location id="645" inner_flag_pos="350,740">
+		<title><![CDATA[Белый риф]]></title>
+		
+		<enemy_pos inner_pos="288,608" />
+		
+				<object id="deep" inner_pos="229, 714">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает в Долина барагуз]]></text>
+			
+		</object>
+		
+		 <object id="chel_gray" inner_pos="375,678">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Серобрюх]]></item>
+		</object>
+		
+		<object id="chel_gray" inner_pos="245,678">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Синебрюх]]></item>
+		</object>
+		
+		<object id="group_gray" inner_pos="270,740" loc_id="646">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мраморная статуя]]></item>
+			<item><![CDATA[Нимфиус]]></item>
+		</object>
+		
+		<object id="chel_gray" inner_pos="300,720">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Древняя статуя]]></item>
+		</object>
+		
+		<object id="chel_gray" inner_pos="305,650">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Сильфиус]]></item>
+		</object>
+		<object id="group_gray" inner_pos="295,698" loc_id="647">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Асселяндр]]></item>
+			<item><![CDATA[Барахмунг]]></item>
+			<item><![CDATA[Ульварно]]></item>
+		</object>
+		
+		
+		<object id="holy" inner_pos="210, 666">
+			<title><![CDATA[Алтарь воскрешения]]></title>
+			</object>
+		
+		       <object id="monster" inner_pos="450,650">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Хабу [14]]]></item>
+            <item><![CDATA[Шипастый хабу [15]]]></item>
+        </object>
+		
+		</location>	
+		<location id="646" inner_flag_pos="350,760">
+		<title><![CDATA[Долина барагуз]]></title>
+		
+		</location>	
+		
+	<location id="647" inner_flag_pos="350,760">
+		<title><![CDATA[Белый замок]]></title>
+				<object id="house" inner_pos="310, 680">
+			<title><![CDATA[Белый замок]]></title>
+			</object>
+			
+		</location>	
+		
+		<location id="648" inner_flag_pos="350,760">
+		<title><![CDATA[Замок Унариуса]]></title>
+		
+		</location>
+		
+		
+</area>
+
+</areas>

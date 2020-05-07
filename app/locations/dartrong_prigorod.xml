@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="8" src="area_8.swf" rect="2922,812,3359,1360">
+	<title><![CDATA[Пригород Дартронга]]></title>
+	
+
+	<location id="10" inner_flag_pos="109,103" inner_manor_pos="170,130">
+		<title><![CDATA[Селение Файтир]]></title>
+		
+		<enemy_pos inner_pos="197,141" />
+
+		<object id="deep" inner_pos="64,92">
+			<title><![CDATA[Портал]]></title>
+			<text><![CDATA[Перемещает к Адскому перевалу]]></text>
+			<linkage area_id="15" location_id="167" />
+		</object>
+
+		<object id="monster" inner_pos="205,120">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+			<item><![CDATA[Патрульный маг Дартронга [11]]]></item>
+			<item><![CDATA[Шальной пес [1]]]></item>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="86,133">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Мудрец Флаввий]]></item>
+		</object>
+
+
+		<object id="farm_floor" inner_pos="160,96">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Чертополох [0]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="139,113">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+
+<object id="libra" inner_pos="119,66">
+			<title><![CDATA[Магазин подарков]]></title>
+			<text><![CDATA[Этот магазин специализируется на продаже самых разнообразных подарков]]></text>
+		</object>
+
+
+
+	</location>
+	
+	<location id="21" inner_flag_pos="252,335" inner_manor_pos="230,325">
+
+		<title><![CDATA[Округ Вурдалия]]></title>
+		
+		<enemy_pos inner_pos="368,373" />
+		
+
+		<object id="farm_fish" inner_pos="300,350">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="313,289">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Клевер [0]]]></item>
+		</object>
+
+		<object id="group_red" inner_pos="251,371" loc_id="369">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гливенс]]></item>
+                        <item><![CDATA[Вышибала Завурий]]></item>
+			<item><![CDATA[Скиталец Линсей]]></item>
+			<item><![CDATA[Покер]]></item>
+			<item><![CDATA[Смотритель Пэт]]></item>
+			<item><![CDATA[Лейла]]></item>
+			<item><![CDATA[Поликарпыч]]></item>
+			<item><![CDATA[Синяк]]></item>
+			<item><![CDATA[Бука]]></item>
+		</object>
+		
+		<object id="group_red" inner_pos="306,388">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Купец Галаш]]></item>
+			<item><![CDATA[Моряк Сеймур]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="190,296">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Аметист [30]]]></item>
+		</object>
+
+		<object id="monster" inner_pos="290,275">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+			<item><![CDATA[Патрульный маг Дартронга [11]]]></item>
+			<item><![CDATA[Пес-демон [3]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Хакурт бурый [4]]]></item>
+		</object>
+
+	</location>
+	
+	<location id="22" inner_flag_pos="195,189" inner_manor_pos="125,175">
+
+		<title><![CDATA[Деревня Ангрияр]]></title>
+		
+		<enemy_pos inner_pos="259,251" />
+
+		<object id="star_2" inner_pos="203,253" race="mag">
+			<title><![CDATA[Заброшенный дом]]></title>
+			<text><![CDATA[Бывшее жилище мага Линграонца, которого король Магиш обратил на темную сторону. Теперь этот дом стал опасной ловушкой для всех смертных, дерзнувших проникнуть внутрь]]></text>			
+		</object>
+
+		<object id="monster" inner_pos="262,227">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Патрульный Дартронга [15]]]></item>
+			<item><![CDATA[Патрульный маг Дартронга [11]]]></item>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Скелет-воин [3]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="165,215">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Карлик Смурри]]></item>
+		</object>
+		
+		<object id="chel_red" inner_pos="193,223">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Бонна Бенита]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="160,169">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="219,164">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Омела [0]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="235,200">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Агат [0]]]></item>
+			<item><![CDATA[Аквамарин [0]]]></item>
+			<item><![CDATA[Бирюза [0]]]></item>
+		</object>
+
+	</location>
+	
+	<location id="23" inner_flag_pos="131,393" inner_manor_pos="175,465">
+		<title><![CDATA[Поместье Будримах]]></title>
+		
+		<enemy_pos inner_pos="130,462" />
+
+		<object id="monster" inner_pos="89,414">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Хакурт бурый [4]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Дугрхарг [5]]]></item>
+		</object>
+
+		<object id="farm_rock" inner_pos="122,474">
+			<title><![CDATA[Драгоценные камни]]></title>
+			<item><![CDATA[Обсидиан [30]]]></item>
+		</object>
+
+		<object id="farm_floor" inner_pos="69,375">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Розмарин [30]]]></item>
+		</object>
+
+		<object id="chel_red" inner_pos="189,416">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Монах Пимен]]></item>
+		</object>
+
+		<object id="farm_fish" inner_pos="145,440">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Пещерная рыба [0]]]></item>
+			<item><![CDATA[Каменный карп [0]]]></item>
+			<item><![CDATA[Огненный лещ [30]]]></item>
+			<item><![CDATA[Черный карась [30]]]></item>
+			<item><![CDATA[Угольная щука [60]]]></item>
+			<item><![CDATA[Златоперая семга [120]]]></item>
+			<item><![CDATA[Золотой хабус [120]]]></item>
+		</object>
+		<object id="chel_red" inner_pos="153,348" loc_id="338">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Норак Доброхот]]></item>
+		</object>
+		<object id="holy" inner_pos="183,348">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+		<object id="tower" inner_pos="168,363">
+			<title><![CDATA[Обитель Братства Добродетели]]></title>
+			<text><![CDATA[Эта территория защищается Братством, любые военные действия на ней разрешены только против Вершителей зла. Также для служителей Братства здесь работает Святилище, в котором они могут приобретать специальные свитки и снадобья]]></text>
+		</object>
+
+	</location>
+</area>
+
+</areas>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+<area id="415" src="area_415.swf" rect="3319,983,4315,1731">
+	<title><![CDATA[Подводный мир]]></title>
+	
+
+
+<location id="416" inner_flag_pos="692,301">
+	<title><![CDATA[Глубоководная долина]]></title>
+	
+	<enemy_pos inner_pos="610,310" />
+	
+			<object id="farm_floor" inner_pos="618,241">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Коралл [0]]]></item>
+		</object>	
+	
+	<object id="monster" inner_pos="708,371">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Шаркид-наемник [6]]]></item>
+		</object>
+	
+</location>
+<location id="417" inner_flag_pos="549,360">
+	<title><![CDATA[Флаунгард]]></title>
+	
+	<enemy_pos inner_pos="437,418" />
+	
+		<object id="farm_floor" inner_pos="510,360">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Коралл [0]]]></item>
+		</object>	
+	
+		<object id="tower" inner_pos="464,398">
+			<title><![CDATA[Дворец Флаунгарда]]></title>
+			<text><![CDATA[Дворец Флаунгарда - огромный замок, выстроенный лучшими мастерами подводного народа в период расцвета их расы.]]></text>
+		</object>
+		
+		<object id="chel_gray" inner_pos="464,363" loc_id="455">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Аквариус]]></item>
+		</object>
+		<object id="chel_gray" inner_pos="428,445">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ученый Октеон]]></item>
+		</object>
+		<object id="chel_gray" inner_pos="576,371">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Колдун Волнар]]></item>
+		</object>
+	
+		<object id="libra" inner_pos="448,380">
+			<title><![CDATA[Подводный магазин ]]></title>
+			<text><![CDATA[В магазине вы можете приобрести различные товары, починить износившиеся доспехи, или продать ненужные вещи старьевщику.]]></text>
+		</object>
+		
+				<object id="libra" inner_pos="480,380">
+			<title><![CDATA[Склад флаундинов ]]></title>
+			<text><![CDATA[На этом складе сторонники флаундинов могут приобретать необходимые артефакты.]]></text>
+		</object>
+	
+		<object id="monster" inner_pos="396,349">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Шаркид-наемник [6]]]></item>
+			<item><![CDATA[Шаркид-кондотьер [7]]]></item>
+		</object>
+	
+</location>
+<location id="418" inner_flag_pos="322,399">
+	<title><![CDATA[Коралловая гряда]]></title>
+	
+	<enemy_pos inner_pos="287,311" />
+	
+		<object id="farm_floor" inner_pos="310,330">
+			<title><![CDATA[Растения]]></title>
+			<item><![CDATA[Коралл [0]]]></item>
+		</object>	
+	
+		<object id="monster" inner_pos="210,315">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Шаркид-кондотьер [7]]]></item>
+			<item><![CDATA[Флаундин-мятежник [8]]]></item>
+		</object>
+		
+</location>
+<location id="419" inner_flag_pos="363,528">
+	<title><![CDATA[Кладбище кораблей]]></title>
+
+	<enemy_pos inner_pos="367,621" />
+	
+		<object id="star_2" inner_pos="386,503">
+			<title><![CDATA[Затонувший корабль]]></title>
+			<text><![CDATA[Насквозь прогнившее от морской воды судно, лежащее на скоплении драгоценных жемчужин Голлейд. Теперь затонувший корабль оберегает кровожадный капитан Эгер Коготь и его матросы, восставшие из мертвых.]]></text>			
+		</object>
+	
+	
+		<object id="monster" inner_pos="400,623">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Флаундин-мятежник [8]]]></item>
+			<item><![CDATA[Детеныш Флангария Корра [9]]]></item>
+		</object>
+		
+</location>
+<location id="420" inner_flag_pos="584,436">
+	<title><![CDATA[Подводная тюрьма]]></title>
+	
+	<enemy_pos inner_pos="510,557" />
+	
+	<object id="chel_gray" inner_pos="534,486">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[РаскриуЦу]]></item>
+	</object>
+	
+</location>
+<location id="435" inner_flag_pos="783,284">
+	<title><![CDATA[Храм воды]]></title>
+	
+	<enemy_pos inner_pos="746,166" />
+	
+	<object id="house" inner_pos="745, 185">
+			<title><![CDATA[Храм воды]]></title>
+			</object>
+	
+	<object id="holy" inner_pos="775, 200">
+			<title><![CDATA[Алтарь воскрешения]]></title>
+			</object>
+
+	<object id="chel_gray" inner_pos="735, 230">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Аквазурий]]></item>
+	</object>
+		<object id="deep" inner_pos="651,144">
+			<title><![CDATA[Плавание к родному округу на лодке, запряженной морскими змеями]]></title>			
+		</object>
+		
+		<object id="deep" inner_pos="797,345">
+			<title><![CDATA[Плавание к родному округу на лодке, запряженной морскими змеями]]></title>
+		</object>
+	
+</location>
+
+
+
+</area>
+</areas>

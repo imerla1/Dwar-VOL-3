@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+
+<area id="3" src="area_3.swf" rect="4281,1610,4793,2201">
+	<title><![CDATA[О`Дельвайс]]></title>
+	
+	<location id="5" inner_flag_pos="117,333" inner_manor_pos="147,333">
+	<title><![CDATA[Площадь О`Дельвайса]]></title>
+	
+		<enemy_pos inner_pos="262,287" />
+
+		<object id="monster" inner_pos="355,203">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Шальной пес [1]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+		</object>
+
+		<object id="arena" inner_pos="402,259">
+			<title><![CDATA[Арена]]></title>
+			<text><![CDATA[На арене вы можете провести дуэль, групповой или хаотический бой, а также сразиться с тренерами]]></text>
+		</object>
+
+		<object id="libra" inner_pos="325,315">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В магазине вы можете приобрести различные товары, починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="hammer" inner_pos="372,311">
+			<title><![CDATA[Аукцион]]></title>
+			<text><![CDATA[На аукционе вы сможете купить товары других игроков по самым выгодным ценам или выгодно продать любой товар, если он представляет какую-либо ценность в мире Фэо]]></text>
+		</object>
+
+		<object id="bag" inner_pos="203,312">
+			<title><![CDATA[Банк]]></title>
+			<text><![CDATA[Обмен у менялы рубинов и бриллиантов, банковская ячейка для хранения вещей]]></text>			
+		</object>
+
+		<object id="holy" inner_pos="325,237">
+			<title><![CDATA[Храм]]></title>
+			<text><![CDATA[Убитый в бою воин может воскреснуть в храме]]></text>			
+		</object>
+
+		<object id="mail" inner_pos="157,370">
+			<title><![CDATA[Почта]]></title>
+			<text><![CDATA[Почта О`Дельвайса позволяет людям пересылать письма вещи и деньги]]></text>			
+		</object>
+
+		<object id="group_blue" inner_pos="271,299" loc_id="489">
+			<title><![CDATA[Гильдия мастеров различных профессий]]></title>
+			<item><![CDATA[Ювелир Эсмерил]]></item>
+			<item><![CDATA[Алхимик Калиостро]]></item>
+			<item><![CDATA[Травник Фоглио]]></item>
+			<item><![CDATA[Геолог Гестейн]]></item>
+		</object>
+		<object id="group_blue" inner_pos="271,259">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Гонец Дахакар]]></item>
+			<item><![CDATA[Гонец Кирион]]></item>
+		</object>
+
+		<object id="group_blue" inner_pos="404,234" loc_id="26">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Тренер Версонг]]></item>
+			<item><![CDATA[Тренер Шиммур]]></item>
+			<item><![CDATA[Тренер Аввердок]]></item>
+			<item><![CDATA[Тренер Крудон]]></item>
+		</object>
+                <object id="chel_blue" inner_pos="402,285" loc_id="12">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Воевода Дамирус]]></item>
+		</object>
+
+		<object id="group_blue" inner_pos="362,265">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Старец Багурон]]></item>
+			<item><![CDATA[Колодец удачи]]></item>
+		</object>
+                <object id="chel_blue" inner_pos="362,230">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Скупщик Грильдо]]></item>
+		</object>
+
+	</location>
+
+	<location id="139" inner_flag_pos="259,360" inner_manor_pos="219,360">
+		<title><![CDATA[Площадь света]]></title>
+		
+		<enemy_pos inner_pos="203,518" />
+
+		<object id="house" inner_pos="320,435">
+			<title><![CDATA[Городская ярмарка]]></title>
+		</object>
+
+		<object id="group_blue" inner_pos="313,410" loc_id="724">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Надилари]]></item>
+			<item><![CDATA[Тиндолин]]></item>
+			<item><![CDATA[Скупщик Родерик]]></item>
+		</object>
+
+
+		<object id="prison" inner_pos="353,440">
+			<title><![CDATA[Темница О`Дельвайса]]></title>
+			<text><![CDATA[В темнице заключены люди с проклятием «Неволи». Также, за выкуп тут можно снять любое проклятие]]></text>
+		</object>
+
+		<object id="house" inner_pos="335,369">
+			<title><![CDATA[Храм бракосочетаний]]></title>
+			<text><![CDATA[В храме бракосочетаний проводятся все свадебные обряды, также там можно приобрести свадебные аксессуары]]></text>
+		</object>
+		
+		<object id="chel_blue" inner_pos="335,395" loc_id="246">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Обрядница Лангри]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="208,414">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Ремесленник Остап]]></item>
+		</object>
+
+		<object id="monster" inner_pos="302,468">
+			<title><![CDATA[Монстры]]></title>
+			<item><![CDATA[Бешеный пес [2]]]></item>
+			<item><![CDATA[Матерый пес-демон [4]]]></item>
+			<item><![CDATA[Патрульный О`Дельвайса [15]]]></item>
+		</object>
+
+		<object id="chel_blue" inner_pos="406,370" loc_id="144">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Архивариус Семейлу]]></item>
+		</object>
+		
+		<object id="house" inner_pos="406,394">
+			<title><![CDATA[Регистрационная палата]]></title>
+			<text><![CDATA[Регистрация и оплата налогов на содержание кланов]]></text>
+		</object>
+
+		<object id="farm_fish" inner_pos="288,369">
+			<title><![CDATA[Рыба]]></title>
+			<item><![CDATA[Лунный сазан [0]]]></item>
+			<item><![CDATA[Фелинойская вобла [0]]]></item>
+			<item><![CDATA[Сумрачный амур [30]]]></item>
+			<item><![CDATA[Серебристый линь [30]]]></item>
+			<item><![CDATA[Алмазная кета [60]]]></item>
+                        <item><![CDATA[Багряная стерлядь [90]]]></item>
+		</object>
+
+		<object id="libra" inner_pos="358,403">
+			<title><![CDATA[Магазин]]></title>
+			<text><![CDATA[В данном магазине продаются ценные вещи для уважаемых людей О`Дельвайса, имеющих определенную репутацию в городе, вы также можете починить износившиеся доспехи, или продать ненужные вещи старьевщику]]></text>
+		</object>
+
+		<object id="tower" inner_pos="265,440">
+			<title><![CDATA[Башня боевых магов]]></title>
+			<text><![CDATA[В этой башне живут, обучают новичков и совершенствуют свое мастерство боевые маги света, воды и воздуха. Также здесь расположился магазин, в котором можно приобрести магические артефакты]]></text>
+		</object>
+
+		<object id="group_blue" inner_pos="266,416" loc_id="163">
+			<title><![CDATA[Игровые персонажи]]></title>
+			<item><![CDATA[Маг воды Агуас]]></item>
+			<item><![CDATA[Маг света Велт]]></item>
+			<item><![CDATA[Маг воздуха Йю]]></item>
+		</object>
+
+	</location>
+	
+</area>
+
+</areas>
