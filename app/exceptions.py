@@ -1,0 +1,2 @@
+class UnknownModeError(Exception):
+    pass

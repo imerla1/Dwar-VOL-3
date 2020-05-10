@@ -26,7 +26,6 @@ class Dwar(object):
         """
         Description:
             Authentication to dwar Account
-
         Arguments:
             username {[string]} -- [Dwar Username]
             password {[string]} -- [Dwar password]
@@ -57,14 +56,11 @@ class Dwar(object):
     def execute_xmlhttpRequest(self, url, method='POST', _async='true'):
         """Create Ajax Xmlhttprequest, and send.
          initializes a newly-created request,
-
         Arguments:
             url {[str]} -- [description]
-
         Keyword Arguments:
             method {str} -- http Method (default: {'POST'})
             _async {str} -- indicating whether or not to perform the operation asynchronously (default: {'true'})
-
         Retrun:
             type: str
             return Javascrip xmlhttprequest
@@ -78,12 +74,10 @@ class Dwar(object):
 
     def respawn(self, payment=True):
         """[summary]
-
         Keyword Arguments:
             payment {bool} -- Dwarshi aris 2 tipis gacocxleba Fasiani romelic imave Lokaciashi gacocxlebs
             da girs 15 centi an ufaso da gacocxldebi Odelvais-shi, Tu payment=True shesruldebA fasiani gacocxleba,
             xolo tu payment=False mashin ufaso
-
         """
         if payment:
             # Tu vasrulebt fasian gacocxlebas
@@ -91,7 +85,6 @@ class Dwar(object):
 
     def parse_xml(self, game_mode, instance):
         """[summary]
-
         Arguments:
             game_mode {[type]} -- [description]
         Returns:
@@ -121,4 +114,3 @@ class ServiceCraft(Dwar):
 
 class PurpleConlegret(object):
     pass
-
