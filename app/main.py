@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 import textwrap
-from LoginScreen import tkWindow, data
 import requests
 import sys
 from time import sleep
@@ -72,6 +71,7 @@ class Dwar(object):
         '''
         return textwrap.dedent(ajax_request)  # Use texwrap.dedent for indentation purposes
 
+
     def respawn(self, payment=True):
         """[summary]
         Keyword Arguments:
@@ -102,7 +102,8 @@ class Farm(Dwar):
 
     def heal_zanoz(self):
         pass
-
+    def check_upadok_sil(self): # Login Requierd
+        pass
 
 class OpenSuperHit(Dwar):
     pass
