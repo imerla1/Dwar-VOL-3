@@ -1,32 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dwar Cheat</title>
-    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
-</head>
-<style>
+    <link
+      rel="stylesheet"
+      href="{{url_for('static', filename='css/style.css')}}"
+    />
+  </head>
+  <style>
     body {
-        background-image: url('../static/images/back4.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: 100% 100%;
+      background-image: url("../static/images/back4.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+      font-family: Arial, Helvetica, sans-serif;
     }
-    
-</style>
-<body style="margin-top: 0;">
-    <center><img src="{{url_for('static', filename='images/1234.png')}}" alt="" srcset="" style="margin-right: 35px; margin-top: 3px;"></center>    
-    
+  </style>
+  <body style="margin-top: 0;">
+    <center>
+      <img
+        src="{{url_for('static', filename='images/1234.png')}}"
+        alt=""
+        srcset=""
+        style="margin-right: 35px; margin-top: 3px;"
+      />
+    </center>
+
+    <br />
+    <img
+      src="https://w1.dwar.ru/images/locale/ru/images/email.png"
+      width="52"
+      height="13"
+      class="png_img"
+    />
+
+    <input type="text" placeholder="Email" class="email-input" />
+    <br />
+    <br />
+    <img
+      src="https://w1.dwar.ru/images/locale/ru/images/passwd.png"
+      width="52"
+      height="13"
+      class="png_img"
+    />
+    <input type="password" placeholder="password" class="email-input" />
     <br>
-    <img src="https://w1.dwar.ru/images/locale/ru/images/email.png" width="52" height="13" class="png_img">
-    <td class="tbl-mn_loginarea-input-td tbl-mn_loginarea-input-td-fon">
-        <input name="email" id="userEmail" class="tbl-mn_loginarea-input" type="text">
-    </td>
-    
-    </td>
-    <br><br>
     <br>
-    <img src="{{url_for('static', filename='images/go_btn.png')}}" alt="" srcset="" style="margin-right: 35px; margin-top: 3px;">
-</body>
+    <br>
+    <label for="cars" style="font-size: large; color: rgb(23, 139, 0); margin-right: 10px;"><strong>Choose Game Mode</strong> </label>
+
+    <select id="cars">
+        {%for option in options%}
+            <option value="{{option}}" name={{option}}>{{option}}</option>
+        {% endfor %}
+    </select>
+    <br /><br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <img
+      src="{{url_for('static', filename='images/go_btn.png')}}"
+      alt=""
+      srcset=""
+      style="margin-right: 35px; margin-top: 3px;"
+    />
+  </body>
 </html>

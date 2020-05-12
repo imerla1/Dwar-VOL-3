@@ -1,3 +1,3 @@
 chromium-browser --new-window --window-size=500,500 --window-position=251,0 --app="http://www.google.com.br" 
 
-chromium-browser --new-window --window-size=500,500 --window-resizable=false --app="http://www.google.com" 
+chromium-browser --new-window --window-size=700,700 --window-resizable=false --app="http://www.google.com" 

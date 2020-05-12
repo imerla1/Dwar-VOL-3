@@ -4,6 +4,9 @@ from collections import namedtuple
 import pathlib
 import re
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+os.chdir(dir_path)
+
 def world():
 
     locations_dir =  os.path.join(pathlib.Path().absolute(), 'locations')
@@ -45,4 +48,4 @@ def world():
         return world
     else:
         print("locations directory doesnt exist Please first run download_world.py")
-
+        return False

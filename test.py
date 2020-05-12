@@ -1,3 +1,1 @@
-import webbrowser
-
-webbrowser.open('s.html')
+from app import app

@@ -8,7 +8,7 @@
 	font-family: Tahoma;
 	color: rgb(135, 183, 255);
 	border: 0;
-	background-color: red;
+	background-color: transparent;
 }
 
 .tbl-mn_loginarea-input-td-fon {
@@ -23,10 +23,10 @@
     vertical-align: middle;
 }
 
-.do {
-	background-attachment: fixed;
+.email-input{
+	margin-left: 25px;
+	border: solid sandybrown 2px;
+	
 }
 
-.wuzzap {
-	color: green;
-}
+  
